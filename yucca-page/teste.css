@@ -1,0 +1,76 @@
+.bgColor{
+	background-color:#1a0d39
+}
+
+.styleApresentacao{
+	font-size: 37px;
+    line-height: 26px;
+    margin-top: -25px;
+}
+
+.styleColeta{
+	font-size: 22px;
+}
+
+.marginTitle{
+	margin-bottom: 40px;
+}
+
+.inputStyle{
+    background-color: rgba(250, 235, 215, 0);
+	border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.styleFooter{
+    font-size: 13px;
+    text-align: left;
+	margin-top: 10px;
+}
+
+.personalizarColeta{
+	font-size: 16px;
+    color: #48279a;
+    text-decoration: underline;
+    margin-right: 111px;
+}
+
+.titleHeader{
+    font-size: 20px;
+	margin-top: 6px;
+    margin-bottom: 3px;
+}
+
+.colorHeader, .colorHeader:hover{
+    color: #fff!important;
+    background-color: #4811ce96!important;
+}
+
+.fontApresentacao{
+	font-family: 'Courgette', cursive;
+}
+
+.textArea{
+	color: black;
+}
+
+.font{
+	font-family: 'Istok Web', sans-serif;
+	font-size: 19px;
+	color: white;
+	font-weight: 400;
+}
+
+.button {
+	background-color: #008CBA;
+	border: none;
+	color: white;
+	padding: 10px;
+	border-radius: 4px;
+	width: 250px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 24px;
+}

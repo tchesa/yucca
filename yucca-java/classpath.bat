@@ -1,0 +1,1 @@
+java -cp target/classes br.ufop.decom.gaid.focused_crawler.integration.FocusedCrawlerProcessTest %1
