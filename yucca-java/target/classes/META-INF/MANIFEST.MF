@@ -1,0 +1,46 @@
+Manifest-Version: 1.0
+Export-Package: org.apache.commons.compress.compressors.pack200;versio
+ n="1.5",org.apache.commons.compress.changes;version="1.5",org.apache.
+ commons.compress.archivers.ar;version="1.5",org.apache.commons.compre
+ ss.archivers.jar;version="1.5",org.apache.commons.compress.archivers.
+ cpio;version="1.5",org.apache.commons.compress.archivers;version="1.5
+ ",org.apache.commons.compress.archivers.tar;version="1.5",org.apache.
+ commons.compress.archivers.zip;version="1.5",org.apache.commons.compr
+ ess.archivers.dump;version="1.5",org.apache.commons.compress.compress
+ ors.bzip2;version="1.5",org.apache.commons.compress.compressors;versi
+ on="1.5",org.apache.commons.compress.compressors.xz;version="1.5",org
+ .apache.commons.compress.utils;version="1.5",org.apache.commons.compr
+ ess.compressors.gzip;version="1.5"
+Implementation-Title: Commons Compress
+Built-By: stefan
+Tool: Bnd-1.50.0
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Vendor-Id: org.apache
+Specification-Title: Commons Compress
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-SymbolicName: org.apache.commons.compress
+Extension-Name: org.apache.commons.compress
+X-Compile-Target-JDK: 1.5
+Implementation-Version: 1.5
+Specification-Vendor: The Apache Software Foundation
+Bundle-Name: Commons Compress
+Created-By: Apache Maven Bundle Plugin
+X-Compile-Source-JDK: 1.5
+Bundle-Vendor: The Apache Software Foundation
+Build-Jdk: 1.6.0_27
+Bundle-Version: 1.5.0
+Bnd-LastModified: 1362982389444
+Bundle-ManifestVersion: 2
+Bundle-Description: Apache Commons Compress software defines an API fo
+ r working with compression and archive formats.These include: bzip2, 
+ gzip, pack200, xz and ar, cpio, jar, tar, zip, dump.
+Bundle-DocURL: http://commons.apache.org/compress/
+Import-Package: org.tukaani.xz;resolution:=optional
+Include-Resource: META-INF/LICENSE.txt=LICENSE.txt,META-INF/NOTICE.txt
+ =NOTICE.txt
+Specification-Version: 1.5
+Implementation-Build: tags/COMPRESS-1.5_RC1@r1455005; 2013-03-11 07:12
+ :20+0100
+Main-Class: org.apache.commons.compress.archivers.Lister
+Archiver-Version: Plexus Archiver
+

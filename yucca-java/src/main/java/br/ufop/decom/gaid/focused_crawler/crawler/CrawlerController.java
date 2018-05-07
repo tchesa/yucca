@@ -175,8 +175,26 @@ public class CrawlerController {
                     System.out.println(numSeeds);
                     SeedBuilder builder = new SeedBuilder(new GoogleAjaxSearch(), numSeeds);
                     seeds = builder.build();
+                    System.out.println("------");
+                    String[] cmd = new String[7];
+                    cmd[0] = "python3";
+                    cmd[1] = "./tfQueryExpansion/termfreq.py";
+                    cmd[2] = "https://docs.python.org/3/tutorial/datastructures.html";
+                    cmd[3] = "http://thomas-cokelaer.info/tutorials/python/data_structures.html";
+                    cmd[4] = "https://www.datacamp.com/community/tutorials/data-structures-python";
+                    cmd[5] = "http://interactivepython.org/runestone/static/pythonds/index.html";
+                    cmd[6] = "https://pt.coursera.org/learn/python-data";
+                    Process pr = Runtime.getRuntime().exec(cmd);
+                    // retrieve output from python script
+                    BufferedReader bfr = new BufferedReader(new InputStreamReader(pr.getInputStream()));
+                    String line = "";
+                    while((line = bfr.readLine()) != null) {
+                        // display each output line form python script
+                        System.out.println(line);
+                    }
                     for (WebURL seed : seeds) {
                         controller.addSeed(seed.getURL());
+                        System.out.println(seed.getURL());
                     }
                     break;
                 case 1:
@@ -216,6 +234,7 @@ public class CrawlerController {
             System.out.println(heuLimSim);
 
             linhaDoArquivo = bufferedReader.readLine();
+
             double genreWeight = Double.parseDouble(linhaDoArquivo);
             System.out.print("Peso de gênero: ");
             System.out.println(genreWeight);
