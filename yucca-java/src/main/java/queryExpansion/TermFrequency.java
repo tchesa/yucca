@@ -14,11 +14,11 @@ public class TermFrequency extends QueryExpansion {
     @Override
     public String[] getTerms(String[] urls) {
         /*String[] urls = new String[]{
-                "https://docs.python.org/3/tutorial/datastructures.html",
-                "http://thomas-cokelaer.info/tutorials/python/data_structures.html",
-                "https://www.datacamp.com/community/tutorials/data-structures-python",
-                "http://interactivepython.org/runestone/static/pythonds/index.html",
-                "https://pt.coursera.org/learn/python-data"
+            "https://docs.python.org/3/tutorial/datastructures.html",
+            "http://thomas-cokelaer.info/tutorials/python/data_structures.html",
+            "https://www.datacamp.com/community/tutorials/data-structures-python",
+            "http://interactivepython.org/runestone/static/pythonds/index.html",
+            "https://pt.coursera.org/learn/python-data"
         };*/
 
         int N = 0; // total number of terms
@@ -108,7 +108,7 @@ public class TermFrequency extends QueryExpansion {
     }
 
     private static String[] removeStopwords(String[] words) {
-        String language = "en";
+        String language = "en"; // future work: get language automaticaly
         List<String> list = new ArrayList<String>();
         String[] stopwords = Stopwords.getStopwords(language);
         for (String w : words) {

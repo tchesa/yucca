@@ -132,7 +132,6 @@ public class CrawlerController {
                 int qtdMax = Integer.parseInt(linhaDoArquivo);
                 config.setMaxPagesToFetch(qtdMax);
             }
-
         } catch (IOException e) {
             e.printStackTrace();
         } finally {
@@ -167,7 +166,8 @@ public class CrawlerController {
             System.out.print("Informar pag semente: ");
             System.out.println(informarPagSemente);
 
-            switch (informarPagSemente) {       //as paginas sementes serao geradas automaticamente
+            // as paginas sementes serao geradas automaticamente
+            switch (informarPagSemente) {
                 case 0:
                     linhaDoArquivo = bufferedReader.readLine();
                     int numSeeds = Integer.parseInt(linhaDoArquivo);
@@ -175,27 +175,6 @@ public class CrawlerController {
                     System.out.println(numSeeds);
                     SeedBuilder builder = new SeedBuilder(new GoogleAjaxSearch(), numSeeds);
                     seeds = builder.build();
-                    System.out.println("------");
-                    String[] cmd = new String[7];
-                    cmd[0] = "python3";
-                    cmd[1] = "./tfQueryExpansion/termfreq.py";
-                    cmd[2] = "https://docs.python.org/3/tutorial/datastructures.html";
-                    cmd[3] = "http://thomas-cokelaer.info/tutorials/python/data_structures.html";
-                    cmd[4] = "https://www.datacamp.com/community/tutorials/data-structures-python";
-                    cmd[5] = "http://interactivepython.org/runestone/static/pythonds/index.html";
-                    cmd[6] = "https://pt.coursera.org/learn/python-data";
-                    Process pr = Runtime.getRuntime().exec(cmd);
-                    // retrieve output from python script
-                    BufferedReader bfr = new BufferedReader(new InputStreamReader(pr.getInputStream()));
-                    String line = "";
-                    while((line = bfr.readLine()) != null) {
-                        // display each output line form python script
-                        System.out.println(line);
-                    }
-                    for (WebURL seed : seeds) {
-                        controller.addSeed(seed.getURL());
-                        System.out.println(seed.getURL());
-                    }
                     break;
                 case 1:
                     seeds = new ArrayList<>();
@@ -210,6 +189,7 @@ public class CrawlerController {
                         controller.addSeed(seed.getURL());
                     }
                     break;
+                default: break;
             }
             bufferedReader.close();
         } catch (IOException e) {
@@ -257,6 +237,7 @@ public class CrawlerController {
                 case 3:         //Media aritmetica
                     threshold = new ArithmeticMean(new CosineSimilarity(genreTerms, contentTerms, genreWeight, contentWeight), seeds).getThreshold();
                     break;
+                default: break;
             }
             bufferedReader.close();
             System.out.print("threshold: ");

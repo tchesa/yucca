@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>br.ufop.decom.gaid</groupId>
-    <artifactId>focused-crawler-seq</artifactId>
+    <artifactId>yucca</artifactId>
     <version>1.0-SNAPSHOT</version>
     <build>
         <plugins>
