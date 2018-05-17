@@ -2,12 +2,13 @@
 Numero de termos: 12
 Termos:
 	cardapio Freq: 1
-	cardapio Freq: 2
 	culinaria Freq: 1
+	culinaria Freq: 2
+	culinaria Freq: 3
 	rodizio Freq: 1
 	rodizio Freq: 2
-	cardapio Freq: 3
-	culinaria Freq: 2
+	cardapio Freq: 2
+	culinaria Freq: 4
 
 Numero de termos: 16
 Termos:
@@ -20,11 +21,11 @@ Numero de termos: 28
 Termos:
 
 
-GenreWeight = 0.7	GenreSimilarity = 0.49009802940980335
+GenreWeight = 0.7	GenreSimilarity = 0.47140452079103173
 ContentWeight = 0.3	ContentSimilarity = 0.4082482904638631
-GenreAndContentWeight = 0.8	GenreAndContentCombination = 0.46554310772602125
+GenreAndContentWeight = 0.8	GenreAndContentCombination = 0.4524576516928811
 UrlWeight = 0.2	UrlSimilarity = 0.0
-urlText = https://guia.folha.uol.com.br/restaurantes/2018/02/conheca-cinco-almocos-classicos-do-centro-de-sao-paulo.shtmlLogo da Folha de S.Paulo
+urlText = https://guia.folha.uol.com.br/restaurantes/2018/04/novos-restaurantes-vegetarianos-quincho-e-homa-tem-receitas-elaboradas-e-saborosas.shtmlLogo da Folha de S.Paulo
 
             Folha de S. Paulo
           
@@ -104,8 +105,10 @@ urlText = https://guia.folha.uol.com.br/restaurantes/2018/02/conheca-cinco-almoc
   
     
       
-          Assine a Folha
         
+            Assine a Folha
+          
+      
     
 
     
@@ -243,9 +246,9 @@ urlText = https://guia.folha.uol.com.br/restaurantes/2018/02/conheca-cinco-almoc
     
   
 
-  Conheça cinco almoços clássicos do centro de São Paulo
+  Novos restaurantes vegetarianos Quincho e Homa têm receitas elaboradas e saborosas
 
-      Em 2018, o Salada Record completa 60 anos; conheça esta e mais quatro casas tradicionais na região
+      Casas estão em Pinheiros, na zona oeste de São Paulo
   
   
     
@@ -304,7 +307,7 @@ urlText = https://guia.folha.uol.com.br/restaurantes/2018/02/conheca-cinco-almoc
                       
                                               
                           
-                            16/02/2018
+                            06/04/2018
                             
                               
 
@@ -320,6 +323,9 @@ urlText = https://guia.folha.uol.com.br/restaurantes/2018/02/conheca-cinco-almoc
               
           Marina Consiglio
         
+              
+          Ricardo Ampudia
+        
           
   
 
@@ -328,11 +334,14 @@ São Paulo
 
 
                       
-                        CARLINO
+                        ​
 
-Fundado em 1881, no largo do Paissandu, o restaurante já teve três endereços, todos na região central de São Paulo. Fixou-se, em 2005, na rua Epitácio Pessoa, onde, recentemente, ganhou uma vizinha jovem e animada, a lanchonete Hot Pork, do chef Jefferson Rueda. Lá dentro, o clima é de cantina italiana, com quadros que lembram o país decorando as paredes de tijolos. O menu também busca inspiração na região, com receitas como o polpetone de picanha recheado de mozarela e servido com nhoque e o ragu de ossobuco com parpadelle (R$ 55 cada).
+Conheça dois novos e bons restaurantes vegetarianos em Pinheiros.
 
-R. Epitácio Pessoa, 85, República, região central, tel. 3258-5055. 60 lugares. Seg. a sex.: 12h às 16h. Sáb. e dom.: 12h às 17h. 
+Quincho
+Uma casinha com quintal e cercada por verde abriga esse vegetariano aberto em janeiro. No menu de almoço (R$ 42; com entrada, principal e sobremesa), aparecem opções como o PF, com arroz, feijão, couve, farofa, vinagrete de maxixe, banana-da-terra e ovo frito e o refrescante gaspacho de melancia. À noite, tem drinques, como o negroni (R$ 25), e petiscos, como o bolovo (R$ 9).
+
+R. Mourato Coelho, 1.140, Pinheiros, região oeste, tel. 2597-6048. 40 lugares. Seg.: 12h às 15h. Ter. a sex.: 12h às 15h e 18h à 1h. Sáb.: 13h à 1h.
 
 
   
@@ -340,210 +349,17 @@ R. Epitácio Pessoa, 85, República, região central, tel. 3258-5055. 60 lugares
     
 
         
-      Paleta de cordeiro com paglia e fieno al pomodoro fresco do restaurante Carlino
-             - Letícia Moreira/Folhapress
+      PF do novo restaurante Quincho tem arroz, feijão, couve, farofa, vinagrete de maxixe, banana-da-terra e ovo frito
+             - Bibo Balestra/Divulgação
           
       
 
  
 
-CHURRASQUETO
+Homa 
+Recém-inaugurado, o Homa tem cardápio enxuto e bem preparado. O menu é dos chefs José Barattino (Eataly) e Gilson de Almeida (Na Garagem). São cinco pratos quentes, como o arroz cremoso de beterraba com ricota temperada e limão-siciliano (R$ 29) e o cuscuz de couve-flor, com legumes assados (R$25; foto). Batizada de Horta Crua, a salada da casa é montada com ingredientes disponíveis na semana (R$ 23). 
 
-Desde 1970 na rua 24 de Maio, este restaurante tem paredes de madeira, garçons vestidos com gravatas borboleta e pratos anunciados como individuais, mas que servem, tranquilamente, duas pessoas. O cardápio de comes tem apenas uma página: a casa serve cortes de carne preparados na churrasqueira com arroz e fritas como acompanhamentos, além de guarnições servidas a parte. E só. A combinação que leva o nome da casa é o bife de alcatra (400 g) e sai por R$ 32. Dica: procure sentar-se à porta, pois a grelha é quente a casa não tem ar-condicionado.
-
-R. 24 de Maio, 237, República, região central, tel. 3337-8428. Seg. a sex.: 11h às 22h. Sáb.: 11h às 18h. 
-
-ITAMARATI
-
-Na casa, que funciona desde 1946 no largo São Francisco, as portas são abertas para o público. Há 14 anos na função, o Gilson está lá diariamente para receber a clientela, formada principalmente por executivos, professores, e pelo pessoal que trabalha nas redondezas. O salão é amplo, com paredes de madeira, com um belo bar ao fundo. O menu contempla receitas variadas de peixes, carnes, aves e massas. Faz sucesso o virado à paulista (R$ 70), servido apenas às segundas, e o bacalhau à portuguesa (R$ 125). O menu de sobremesas reforça o "quê" de outrora, com itens como banana split e sundae.
-
-R. José Bonifácio, 270, Sé, região central, tel. 3241-4929. 160 lugares. Seg. a sex.: 11h às 22h. 
-
-
-  
-    
-      Restaurante Itamarati
-    
-    
-      
-    
-  
-
-  
-  
-    
-      
-    
-    
-      
-      
-    
-    
-    
-      
-    
-    
-      
-    
-    
-      
-    
-  
-
-  
-  
-    
-  
-    
-
-    
-      
-        
-      
-        
-    
-      
-        
-        
-      
-      
-        
-      
-    
-    
-      Leia Mais
-    
-  
-
-  
-  
-    
-      
-         
-    
-    
-  
-
-
-  
-
-  
-  
-     Voltar
-  
-
-  
-    Ver novamente
-  
-
-  
-  
-    
-       Voltar
-    
-
-    
-    
-  
-
-  
-    
-      
-    
-  
-
-  
-    
-      
-        
-      
-        
-  
-    
-       Voltar
-    
-    Compartilhe
-    
-        
-          Facebook
-      
-      
-        
-          Whatsapp
-      
-      
-        
-          Twitter
-      
-      
-        
-          Messenger
-      
-      
-        
-          Google
-      
-      
-        
-          Pinterest
-      
-      
-        
-          Linkedin
-      
-      
-        
-          E-mail
-      
-      
-        
-          Cadeado representando um link
-        
-        Copiar link
-        
-        
-          
-    
-  
-
-
-LA FARINA
-
-A placa no sobrado amarelo anuncia a cozinha italiana mais brasileira de São Paulo —a inauguração foi em 1972. Lá dentro, sofás de couro e mesas compartilhadas acomodam os convivas, que são atendidos por garçons como o seu Luiz, lá há mais de 40 anos. O extenso cardápio do local oferece receitas típicas de cantinas italianas e pê-efes. Entre as massas, o espaguete pode ser acompanhado de carne assada ou frango (R$ 34,80, prato individual). Na ala dos pê-efes, o filé-mignon à parmigiana pode vir com fritas e arroz (R$ 52,80).
-
-R. Aurora, 610, Santa Efigênia, região central, tel. 3222-0893. 188 lugares. Seg. a sáb.: 11h às 23h. Dom.: 11h às 17h. 
-
-
-  
-
-    
-
-        
-      Luiz Domingues de Araújo é garçom no restaurante La Farina há mais de 40 anos
-             - Rubens Cavallari/Folhapress
-          
-      
-
-SALADA RECORD
-
-O restaurante vizinho ao gigante Bar Brahma tem história e tradição próprios —completa, neste ano, o 60º aniversário. As paredes são decoradas com fotos antigas do local, lousas com os destaques do menu e poemas escritos por um cliente antigo exaltando a história do lugar e seus funcionários. A cozinha expede pê-efes, mas a casa tem um prato do dia tão famoso, que é servido diariamente por ali: o virado à paulista (R$ 29,50). A receita pode ganhar versões com churrasco, filé de frango ou filé-mignon. Famosa também é a parmigiana, em versões com frango, contra-filé e filé-mignon.
-
-Av. São João, 719, República, região central, tel. 3223-1881. 200 lugares. Seg. a dom.: 11h às 24h. 
-
-
-  
-
-    
-
-        
-      Virado à paulista servido no restaurante Salada Record, na região central de São Paulo
-             - Thiago de Jesus/Folhapress
-          
-      
-
- 
-
- 
+R. Benjamim Egas, 275, Pinheiros, região oeste, tel. 3097-9031. Ter. a dom.: 11h30 às 16h30.
 
                       
 
@@ -570,21 +386,21 @@ Av. São João, 719, República, região central, tel. 3223-1881. 200 lugares. S
                               
               
               Restaurantes
-              Virado à paulista é reconhecido como patrimônio imaterial de SP; saiba onde comer
+              Sushimar Vegano é restaurante japonês sem peixe ou receitas óbvias
             
           
             
                               
               
               Restaurantes
-              Outback lança nova edição do festival de ribs nesta quarta-feira; conheça os pratos
+              Restaurante Estela Passoni serve almoço natural, brunch e aula de ioga
             
           
             
                               
               
               Restaurantes
-              Chef que fez fama em Minas Gerais traz seu restaurante Kitanda Brasil para São Paulo
+              Novo Barú Marisqueria oferece bons produtos do mar em cozinha simples
             
           
     
@@ -712,39 +528,119 @@ Av. São João, 719, República, região central, tel. 3223-1881. 200 lugares. S
             Últimas
 
             
+        11/05/2018
+      
+            
+        Burger Fest começa nesta sexta com mais de 90 participantes
+Guloseimas   15h29
+      
+    
+      
+            
+        Guia indica restaurantes para curtir o Dia das Mães com filhos pequenos
+Restaurantes   02h20
+      
+    
+      
+            
+        Casa usa cacau da Bahia na produção de seus chocolates
+Guloseimas   02h00
+      
+    
+      
+            
+        Japonês de 75 anos comanda boa casa para adoradores de sushis
+Restaurantes   02h00
+      
+    
+      
+            
+        Casa Tucupi oferece culinária acreana
+Restaurantes   02h00
+      
+    
+      
+          
+          Confira dicas de restaurantes e bares para filhos levarem suas mães
+Restaurantes   02h00
+        
+      
+      
+          
+          La Macca tem cozinha italiana sem grandes novidades e preços elevados; veja avaliação
+Restaurantes   02h00
+        
+      
+        04/05/2018
+      
+          
+          Guia testa rodízios inusitados que vão de hambúrgueres a açaí
+Guloseimas   02h20
+        
+      
+      
+          
+          Bar Guarita inaugura hamburgueria com drinques no Baixo Augusta
+Guloseimas   02h00
+        
+      
+      
+          
+          Restaurante Nahná serve comida árabe em Higienópolis
+Restaurantes   02h00
+        
+      
+      
+          
+          Didático, Bia Hoi apresenta sabores da culinária vietnamita; veja avaliação
+Restaurantes   02h00
+        
+      
+      
+          
+          Restaurante Mensa tem menu autoral e sazonal por R$ 70
+Restaurantes   02h00
+        
+      
+      
+          
+          Loja de vinhos serve massas que não decepcionam nem doem no bolso
+Restaurantes   02h00
+        
+      
         02/05/2018
       
-            
-        Festival de sopas da Ceagesp começa nesta quarta com sabores para comer à vontade por R$ 39,90
+          
+          Festival de sopas da Ceagesp começa nesta quarta com sabores para comer à vontade por R$ 39,90
 Restaurantes   17h59
+        
       
-    
         30/04/2018
       
-            
-        Edifício tombado no centro de SP ganha karaokê, bar, restaurante e balada
+          
+          Edifício tombado no centro de SP ganha karaokê, bar, restaurante e balada
 Bares   16h18
+        
       
-    
         27/04/2018
       
-            
-        Conectado ao presente, novo restaurante Homa celebra os vegetais e os orgânicos
+          
+          Conectado ao presente, novo restaurante Homa celebra os vegetais e os orgânicos
 Restaurantes   02h00
+        
       
-    
       
-            
-        Restaurante Attimo estreia pratos e decoração novos
+          
+          Restaurante Attimo estreia pratos e decoração novos
 Restaurantes   02h00
+        
       
-    
       
-            
-        Barú Marisqueria tem clima de praia e bons pratos de peixes e frutos do mar; veja avaliação
+          
+          Barú Marisqueria tem clima de praia e bons pratos de peixes e frutos do mar; veja avaliação
 Restaurantes   02h00
+        
       
-    
       
           
           Depois de 111 anos, Cantina Capuano fecha as portas no Bexiga
@@ -1241,86 +1137,6 @@ São Paulo   16h44
 Restaurantes   02h30
         
       
-      
-          
-          Opinião: Comida do futuro deve olhar mais para fazendas e menos para astronautas
-Restaurantes   02h00
-        
-      
-      
-          
-          Futuro Refeitório serve café da manhã o dia todo e receitas que destacam vegetais
-Restaurantes   02h00
-        
-      
-      
-          
-          Chef que fez fama em Minas Gerais traz seu restaurante Kitanda Brasil para São Paulo
-Restaurantes   02h00
-        
-      
-      
-          
-          Restaurante Avenida Café combina França e Itália em pratos autorais; veja avaliação
-Restaurantes   02h00
-        
-      
-      
-          
-          Crítica: Focado em carnes, Varanda abre filial com bom menu de peixes e frutos do mar 
-Restaurantes   02h00
-        
-      
-      
-          
-          Confeiteira ?Marilia Zylbersztajn abre delicatessen no Itaim Bibi
-Guloseimas   02h00
-        
-      
-        25/01/2018
-      
-          
-          Chef Jefferson Rueda inaugura lanchonete Hot Pork na região central 
-Restaurantes   10h00
-        
-      
-        19/01/2018
-      
-          
-          Melhor de São Paulo? 'Guia' reúne lugares eleitos e autodeclarados campeões da cidade 
-Guloseimas   02h30
-        
-      
-      
-          
-          Animal Chef e Alfreddo Veggani, que surgiram em feiras veganas, abrem casas em SP
-Guloseimas   02h00
-        
-      
-      
-          
-          Hamburgueria C6 Burger abre as portas no Mercado de Pinheiros
-Guloseimas   02h00
-        
-      
-      
-          
-          MiCi tem receitas feitas com cuidado e gosto, mas falta leveza ao resultado; veja avaliação
-Restaurantes   02h00
-        
-      
-      
-          
-          Minúsculo, Báhn Mì serve cozinha típica das ruas do Vietnã
-Restaurantes   02h00
-        
-      
-      
-          
-          Nova casa de Flávio Miyamura tem cozinha contemporânea com toques asiáticos
-Restaurantes   02h00
-        
-      
 
 Ver mais
           
@@ -1331,11 +1147,11 @@ Ver mais
             Mais lidas
 
             
-              Festival de sopas da Ceagesp começa nesta quarta com sabores para comer à vontade por R$ 39,90
-'Verdade ou Desafio', 'O Parque' e mais cinco filmes estreiam nesta quinta
-Simples, filme francês 'O Parque' é pura subversão
-Veja lugares para trocar figurinhas do álbum da Copa 2018
-Sesc Avenida Paulista reabre no domingo; veja programação e passeios para curtir ao redor
+              Xuxa cancela participação na Virada Cultural em São Paulo
+'Deadpool 2', 'O Processo' e mais cinco filmes estreiam nesta quinta
+Sentado, com crianças ou vontade de dançar, veja atrações da Virada Cultural para curtir do seu jeito
+La Macca tem cozinha italiana sem grandes novidades e preços elevados; veja avaliação
+Arnaldo Baptista faz show gratuito nesta quinta em São Paulo; veja dez atrações na cidade
 
             
           
@@ -1522,13 +1338,9 @@ Sesc Avenida Paulista reabre no domingo; veja programação e passeios para curt
     
       
         
-            RoteirosCinemaRestaurantesGuloseimas
+            Roteiros
           
-            PasseiosExposiçõesShows
-          
-            TeatroBaresConcertos
-          
-            CriançaDançaNoite
+            CinemaRestaurantesGuloseimasPasseiosExposiçõesShowsTeatroBaresConcertosCriançaDançaNoite
           
       
     

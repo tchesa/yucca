@@ -132,6 +132,7 @@ public class CrawlerController {
                 int qtdMax = Integer.parseInt(linhaDoArquivo);
                 config.setMaxPagesToFetch(qtdMax);
             }
+
         } catch (IOException e) {
             e.printStackTrace();
         } finally {
@@ -166,8 +167,7 @@ public class CrawlerController {
             System.out.print("Informar pag semente: ");
             System.out.println(informarPagSemente);
 
-            // as paginas sementes serao geradas automaticamente
-            switch (informarPagSemente) {
+            switch (informarPagSemente) {       //as paginas sementes serao geradas automaticamente
                 case 0:
                     linhaDoArquivo = bufferedReader.readLine();
                     int numSeeds = Integer.parseInt(linhaDoArquivo);
@@ -175,6 +175,9 @@ public class CrawlerController {
                     System.out.println(numSeeds);
                     SeedBuilder builder = new SeedBuilder(new GoogleAjaxSearch(), numSeeds);
                     seeds = builder.build();
+                    for (WebURL seed : seeds) {
+                        controller.addSeed(seed.getURL());
+                    }
                     break;
                 case 1:
                     seeds = new ArrayList<>();
@@ -189,7 +192,6 @@ public class CrawlerController {
                         controller.addSeed(seed.getURL());
                     }
                     break;
-                default: break;
             }
             bufferedReader.close();
         } catch (IOException e) {
@@ -214,7 +216,6 @@ public class CrawlerController {
             System.out.println(heuLimSim);
 
             linhaDoArquivo = bufferedReader.readLine();
-
             double genreWeight = Double.parseDouble(linhaDoArquivo);
             System.out.print("Peso de gênero: ");
             System.out.println(genreWeight);
@@ -237,7 +238,6 @@ public class CrawlerController {
                 case 3:         //Media aritmetica
                     threshold = new ArithmeticMean(new CosineSimilarity(genreTerms, contentTerms, genreWeight, contentWeight), seeds).getThreshold();
                     break;
-                default: break;
             }
             bufferedReader.close();
             System.out.print("threshold: ");

@@ -4,10 +4,12 @@ Termos:
 	cardapio Freq: 1
 	reserva Freq: 1
 	culinaria Freq: 1
+	culinaria Freq: 2
+	culinaria Freq: 3
 	rodizio Freq: 1
 	rodizio Freq: 2
 	cardapio Freq: 2
-	culinaria Freq: 2
+	culinaria Freq: 4
 
 Numero de termos: 16
 Termos:
@@ -25,9 +27,9 @@ Numero de termos: 28
 Termos:
 
 
-GenreWeight = 0.7	GenreSimilarity = 0.5604485383178051
+GenreWeight = 0.7	GenreSimilarity = 0.5196152422706632
 ContentWeight = 0.3	ContentSimilarity = 0.4691574316284182
-GenreAndContentWeight = 0.8	GenreAndContentCombination = 0.533061206310989
+GenreAndContentWeight = 0.8	GenreAndContentCombination = 0.5044778990779897
 UrlWeight = 0.2	UrlSimilarity = 0.0
 urlText = http://guia.folha.uol.com.br/restaurantes/2017/08/tradicional-na-liberdade-peixaria-mitsugi-vira-bom-restaurante-com-sashimis-e-drinques.shtmlLogo da Folha de S.Paulo
 
@@ -109,8 +111,10 @@ urlText = http://guia.folha.uol.com.br/restaurantes/2017/08/tradicional-na-liber
   
     
       
-          Assine a Folha
         
+            Assine a Folha
+          
+      
     
 
     
@@ -496,39 +500,119 @@ A competência de Antonio o tornou cobiçado por um público cativo que frequent
             Últimas
 
             
+        11/05/2018
+      
+            
+        Burger Fest começa nesta sexta com mais de 90 participantes
+Guloseimas   15h29
+      
+    
+      
+            
+        Guia indica restaurantes para curtir o Dia das Mães com filhos pequenos
+Restaurantes   02h20
+      
+    
+      
+            
+        Casa usa cacau da Bahia na produção de seus chocolates
+Guloseimas   02h00
+      
+    
+      
+            
+        Japonês de 75 anos comanda boa casa para adoradores de sushis
+Restaurantes   02h00
+      
+    
+      
+            
+        Casa Tucupi oferece culinária acreana
+Restaurantes   02h00
+      
+    
+      
+          
+          Confira dicas de restaurantes e bares para filhos levarem suas mães
+Restaurantes   02h00
+        
+      
+      
+          
+          La Macca tem cozinha italiana sem grandes novidades e preços elevados; veja avaliação
+Restaurantes   02h00
+        
+      
+        04/05/2018
+      
+          
+          Guia testa rodízios inusitados que vão de hambúrgueres a açaí
+Guloseimas   02h20
+        
+      
+      
+          
+          Bar Guarita inaugura hamburgueria com drinques no Baixo Augusta
+Guloseimas   02h00
+        
+      
+      
+          
+          Restaurante Nahná serve comida árabe em Higienópolis
+Restaurantes   02h00
+        
+      
+      
+          
+          Didático, Bia Hoi apresenta sabores da culinária vietnamita; veja avaliação
+Restaurantes   02h00
+        
+      
+      
+          
+          Restaurante Mensa tem menu autoral e sazonal por R$ 70
+Restaurantes   02h00
+        
+      
+      
+          
+          Loja de vinhos serve massas que não decepcionam nem doem no bolso
+Restaurantes   02h00
+        
+      
         02/05/2018
       
-            
-        Festival de sopas da Ceagesp começa nesta quarta com sabores para comer à vontade por R$ 39,90
+          
+          Festival de sopas da Ceagesp começa nesta quarta com sabores para comer à vontade por R$ 39,90
 Restaurantes   17h59
+        
       
-    
         30/04/2018
       
-            
-        Edifício tombado no centro de SP ganha karaokê, bar, restaurante e balada
+          
+          Edifício tombado no centro de SP ganha karaokê, bar, restaurante e balada
 Bares   16h18
+        
       
-    
         27/04/2018
       
-            
-        Conectado ao presente, novo restaurante Homa celebra os vegetais e os orgânicos
+          
+          Conectado ao presente, novo restaurante Homa celebra os vegetais e os orgânicos
 Restaurantes   02h00
+        
       
-    
       
-            
-        Restaurante Attimo estreia pratos e decoração novos
+          
+          Restaurante Attimo estreia pratos e decoração novos
 Restaurantes   02h00
+        
       
-    
       
-            
-        Barú Marisqueria tem clima de praia e bons pratos de peixes e frutos do mar; veja avaliação
+          
+          Barú Marisqueria tem clima de praia e bons pratos de peixes e frutos do mar; veja avaliação
 Restaurantes   02h00
+        
       
-    
       
           
           Depois de 111 anos, Cantina Capuano fecha as portas no Bexiga
@@ -1025,86 +1109,6 @@ São Paulo   16h44
 Restaurantes   02h30
         
       
-      
-          
-          Opinião: Comida do futuro deve olhar mais para fazendas e menos para astronautas
-Restaurantes   02h00
-        
-      
-      
-          
-          Futuro Refeitório serve café da manhã o dia todo e receitas que destacam vegetais
-Restaurantes   02h00
-        
-      
-      
-          
-          Chef que fez fama em Minas Gerais traz seu restaurante Kitanda Brasil para São Paulo
-Restaurantes   02h00
-        
-      
-      
-          
-          Restaurante Avenida Café combina França e Itália em pratos autorais; veja avaliação
-Restaurantes   02h00
-        
-      
-      
-          
-          Crítica: Focado em carnes, Varanda abre filial com bom menu de peixes e frutos do mar 
-Restaurantes   02h00
-        
-      
-      
-          
-          Confeiteira ?Marilia Zylbersztajn abre delicatessen no Itaim Bibi
-Guloseimas   02h00
-        
-      
-        25/01/2018
-      
-          
-          Chef Jefferson Rueda inaugura lanchonete Hot Pork na região central 
-Restaurantes   10h00
-        
-      
-        19/01/2018
-      
-          
-          Melhor de São Paulo? 'Guia' reúne lugares eleitos e autodeclarados campeões da cidade 
-Guloseimas   02h30
-        
-      
-      
-          
-          Animal Chef e Alfreddo Veggani, que surgiram em feiras veganas, abrem casas em SP
-Guloseimas   02h00
-        
-      
-      
-          
-          Hamburgueria C6 Burger abre as portas no Mercado de Pinheiros
-Guloseimas   02h00
-        
-      
-      
-          
-          MiCi tem receitas feitas com cuidado e gosto, mas falta leveza ao resultado; veja avaliação
-Restaurantes   02h00
-        
-      
-      
-          
-          Minúsculo, Báhn Mì serve cozinha típica das ruas do Vietnã
-Restaurantes   02h00
-        
-      
-      
-          
-          Nova casa de Flávio Miyamura tem cozinha contemporânea com toques asiáticos
-Restaurantes   02h00
-        
-      
 
 Ver mais
           
@@ -1115,11 +1119,11 @@ Ver mais
             Mais lidas
 
             
-              'Verdade ou Desafio', 'O Parque' e mais cinco filmes estreiam nesta quinta
-Festival de sopas da Ceagesp começa nesta quarta com sabores para comer à vontade por R$ 39,90
-Simples, filme francês 'O Parque' é pura subversão
-Edifício tombado no centro de SP ganha karaokê, bar, restaurante e balada
-Veja lugares para trocar figurinhas do álbum da Copa 2018
+              Xuxa cancela participação na Virada Cultural em São Paulo
+'Deadpool 2', 'O Processo' e mais cinco filmes estreiam nesta quinta
+Sentado, com crianças ou vontade de dançar, veja atrações da Virada Cultural para curtir do seu jeito
+La Macca tem cozinha italiana sem grandes novidades e preços elevados; veja avaliação
+Arnaldo Baptista faz show gratuito nesta quinta em São Paulo; veja dez atrações na cidade
 
             
           
@@ -1306,13 +1310,9 @@ Veja lugares para trocar figurinhas do álbum da Copa 2018
     
       
         
-            RoteirosCinemaRestaurantesGuloseimas
+            Roteiros
           
-            PasseiosExposiçõesShows
-          
-            TeatroBaresConcertos
-          
-            CriançaDançaNoite
+            CinemaRestaurantesGuloseimasPasseiosExposiçõesShowsTeatroBaresConcertosCriançaDançaNoite
           
       
     
@@ -1325,91 +1325,3 @@ Veja lugares para trocar figurinhas do álbum da Copa 2018
 
       
         Copyright Folha de S.Paulo. Todos os direitos reservados. É proibida a reprodução do conteúdo desta página em qualquer meio de comunicação, eletrônico ou impresso, sem autorização escrita da Folhapress (pesquisa@folhapress.com.br)
-Numero de termos: 12
-Termos:
-	cardapio Freq: 1
-	contato Freq: 1
-	reserva Freq: 1
-	telefone Freq: 1
-	reserva Freq: 2
-	cardapio Freq: 2
-	contato Freq: 2
-
-Numero de termos: 16
-Termos:
-	sushi Freq: 1
-
-Numero de termos: 28
-Termos:
-
-
-GenreWeight = 0.7	GenreSimilarity = 0.5604485383178051
-ContentWeight = 0.3	ContentSimilarity = 0.25
-GenreAndContentWeight = 0.8	GenreAndContentCombination = 0.4673139768224635
-UrlWeight = 0.2	UrlSimilarity = 0.0
-urlText = http://www.sushijapinheiros.com.br/reservas.php11 3034-1210
-    
-    	Home
-        Sobre nós
-        Ambiente
-        Cardápio
-        
-        Contato
-    
-		
-        	Reservas
-            
-
-                Responsável pela reserva
-                
-                
-                E-mail
-                
-                
-                Telefone
-                
-                
-                Quantidade de Pessoas
-                
-                
-                Horário
-                
-                
-                Data para a reserva
-                
-                
-                Observações
-                
-                
-                Didite o código de verificação
-                
-                
-                
-                
-            
-        
-        
-    
-    
-    
-
-
-	
-    	Home
-        |
-        Sobre nós
-        |
-        Ambiente
-        |
-        Eventos
-        |
-        Cardápio
-        |
-        Reservas
-        |
-        Promoções
-        |
-        Contato
-    
-    Rua Diogo Moreira, 138 - Pinheiros - SP - 05423-010
-    Copyright © 2018 Theodora Sushi. All Rights Reserved. Developed by DAMPA

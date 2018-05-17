@@ -1,32 +1,39 @@
 
 Numero de termos: 12
 Termos:
+	cardapio Freq: 1
+	cardapio Freq: 2
+	cardapio Freq: 3
+	cardapio Freq: 4
 	culinaria Freq: 1
-	endereco Freq: 1
 	culinaria Freq: 2
 	culinaria Freq: 3
-	culinaria Freq: 4
 	rodizio Freq: 1
 	rodizio Freq: 2
-	cardapio Freq: 1
-	culinaria Freq: 5
+	cardapio Freq: 5
+	culinaria Freq: 4
 
 Numero de termos: 16
 Termos:
-	camarao Freq: 1
-	salmao Freq: 1
 	sushi Freq: 1
+	salmao Freq: 1
+	salmao Freq: 2
+	shoyu Freq: 1
+	salmao Freq: 3
+	camarao Freq: 1
+	salmao Freq: 4
+	sushi Freq: 2
 	camarao Freq: 2
 
 Numero de termos: 28
 Termos:
 
 
-GenreWeight = 0.7	GenreSimilarity = 0.4666282626286914
-ContentWeight = 0.3	ContentSimilarity = 0.4082482904638631
-GenreAndContentWeight = 0.8	GenreAndContentCombination = 0.4491142709792429
+GenreWeight = 0.7	GenreSimilarity = 0.47336463120312877
+ContentWeight = 0.3	ContentSimilarity = 0.45
+GenreAndContentWeight = 0.8	GenreAndContentCombination = 0.4663552418421901
 UrlWeight = 0.2	UrlSimilarity = 0.0
-urlText = https://guia.folha.uol.com.br/restaurantes/2018/03/evvai-tem-irmao-com-menu-enxuto-e-preco-mais-em-conta-em-shopping.shtmlLogo da Folha de S.Paulo
+urlText = https://guia.folha.uol.com.br/restaurantes/2018/03/chef-emmanuel-bassoleil-renova-menu-do-skye-com-suculentos-pratos-de-panela.shtmlLogo da Folha de S.Paulo
 
             Folha de S. Paulo
           
@@ -242,14 +249,23 @@ urlText = https://guia.folha.uol.com.br/restaurantes/2018/03/evvai-tem-irmao-com
                           
   
     
+  Descrição de chapéu
+            
+    
+        Crítica
+    
+            
+
+
+
     
         Restaurantes
     
   
 
-  Evvai tem irmão com menu enxuto e preço mais em conta em shopping
+  Chef Emmanuel Bassoleil renova menu do Skye com suculentos pratos de panela
 
-      Tavola Evvai fica dentro da loja da Grand Cru no MorumbiShopping
+      Entre receitas de sucesso e novidades, francês mantém qualidade da cozinha
   
   
     
@@ -322,7 +338,7 @@ urlText = https://guia.folha.uol.com.br/restaurantes/2018/03/evvai-tem-irmao-com
                       
     
               
-          Marina Consiglio
+          JOSIMAR MELO
         
           
   
@@ -332,29 +348,18 @@ São Paulo
 
 
                       
-                        O jovem chef Luiz Filipe Souza herdou a cozinha do Loi, casa de seu antigo tutor, o renomado Salvatore Loi, e a transformou no Evvai. O restaurante, de culinária autoral italiana, foi eleito um dos melhores de 2017 pelo Guia.
-
-
+                        Faz tempo que comida de hotel não é necessariamente sinônimo de um cardápio anódino com standards internacionais. O restaurante Skye, do hotel Unique, no Jardim Paulista, desde o início propôs uma interpretação ousada dessa categoria, capitaneada pelo chef francês Emmanuel Bassoleil.Hotéis de grande porte costumam ter vários restaurantes, mas o Unique é um hotel boutique, menor, então tem várias cozinhas num único restaurante.
   
 
     
 
         
-      Frango servido com polenta cremosa, cogumelos e molica é opção de principal do Tavola Evvai, no MorumbiShopping
-             - Mario Rodrigues/Divulgação
+      Baterá (tipo de sushi) de salmão com raspas de limão-sicliano e tartare de figo do novo menu
+             - Helena de Castro/Divulgação
           
       
 
-
-
-O que poucos sabem é que a casa tem uma irmã com preços mais acessíveis, a Tavola Evvai, desde julho dentro da loja Grand Cru no MorumbiShopping.
-
-O endereço, que abrigava outro ponto de Loi, carrega no menu enxuto, de pratos rápidos, o DNA do Evvai.
-
-Receitas como o frango com polenta cremosa, cogumelos frescos e molica (R$ 52) e o radiatore (massa que lembra um radiador) ao pesto com pistache e ricota (R$ 45) são alguns dos destaques.
-
-MorumbiShopping - Av. Roque Petroni Jr., 1.089, Jardim das Acácias, região sul, tel. 5181-0447. 42 lugares. Seg. a sáb.: 12h às 22h. Dom.: 12h às 20h.
-
+Pizzas e sushis (onde impera o salmão) são a parte menos interessante. Já o cardápio contemporâneo, apenas ligeiramente francês, sempre foi instigante, como se mantém agora, na que deve ter sido sua primeira grande renovação.Bassoleil ganhou notoriedade à frente do extinto Roanne. Ao assumir, há 15 anos, o eclético Skye (e toda a gastronomia do hotel), ele manteve seu perfil de uma cozinha inventiva e elaborada, aberta a influências brasileiras (mas não só).E, nela, uma marca importante: é uma cozinha de... cozinha. Não se limita aos grelhados (na verdade, chapeados) e massas com algum molho. São muitos pratos de panela, que demandam vigilância e tempo.Isso vale para as receitas que fazem sucesso desde a abertura do Skye —e continuam em cartaz—, como o robalo com sedoso molho de champanhe, inhame e caviar (R$ 117) e o risoto PF, com feijão, carne de charque, queijo de coalho, farofa, couve, ovo de codorna e banana (R$ 85).E continua valendo nas novidades deste finalmente renovado cardápio. São também pratos de panela, suculentos, como o bacalhau com feijoada (caldinho de feijão, salada de couve com laranja, carne seca, paio e bacon, R$ 95). O reparo é que o bacalhau, muito bom, desaparece diante da poderosa feijoada. Já o “cassoulet” amazônico (pirarucu e tambaqui com feijão-manteiga no caldo de tucupi com jambu e purê de banana, R$ 98) é saboroso e equilibrado.Entre as novidades há também anchova grelhada com purê de abóbora cabotiá, shoyu com gengibre e ovas de salmão (R$ 56), cupim assado por 12 horas com molho de vinho com foie gras e trufa, purê de batata, brioche e ovo mollet (R$ 91) e o cheesecake de abacaxi com sorvete de hortelã (R$ 27). Isso tudo num cardápio que ainda inclui receitas veganas e vegetarianas.Avaliação: muito bomHotel Unique - Av. Brig. Luís Antônio, 4.700, cobertura, Jardim Paulista, região oeste, tel. 3055-4702. 80 lugares. Seg. a qui.: 7h às 11h, 12h às 15h e 19h às 24h. Sex.: 7h às 11h, 12h às 15h e 19h à 0h30. Sáb.: 7h às 11h, 13h às 16h e 19h à 0h30. Dom.: 7h às 11h, 13h às 16h e 19h às 24h. 
                       
 
                       
@@ -380,21 +385,21 @@ MorumbiShopping - Av. Roque Petroni Jr., 1.089, Jardim das Acácias, região sul
                               
               
               Restaurantes
-              Chef Emmanuel Bassoleil renova menu do Skye com suculentos pratos de panela
+              Com preços contidos e ingredientes brasileiros, menu do Café do Farol tem falhas na execução
             
           
             
                               
               
               Restaurantes
-              Novo Tessen reúne restaurante japonês, bar, terraço e balada
+              Novo Barú Marisqueria oferece bons produtos do mar em cozinha simples
             
           
             
                               
               
               Restaurantes
-              Balaio é escolhido o melhor novo restaurante do ano por júri; público indica Evvai
+              No novo italiano Muza, pizzas são a melhor pedida e pratos principais têm falhas
             
           
     
@@ -1143,9 +1148,9 @@ Ver mais
             
               Xuxa cancela participação na Virada Cultural em São Paulo
 'Deadpool 2', 'O Processo' e mais cinco filmes estreiam nesta quinta
-Arnaldo Baptista faz show gratuito nesta quinta em São Paulo; veja dez atrações na cidade
+Sentado, com crianças ou vontade de dançar, veja atrações da Virada Cultural para curtir do seu jeito
 La Macca tem cozinha italiana sem grandes novidades e preços elevados; veja avaliação
-Confira atrações culturais para celebrar o Dia Internacional do Combate à Homofobia
+Arnaldo Baptista faz show gratuito nesta quinta em São Paulo; veja dez atrações na cidade
 
             
           

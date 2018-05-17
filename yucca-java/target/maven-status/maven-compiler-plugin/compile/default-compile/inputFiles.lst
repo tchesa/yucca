@@ -16,12 +16,12 @@
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/frontier/InProcessPagesDB.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/parser/ParseData.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/focused_crawler/threshold/preprocessing/NFirst.java
-/home/cesar/git/ufop/yucca/yucca-java/src/main/java/queryExpansion/TermFrequency.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/focused_crawler/threshold/preprocessing/NLast.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/focused_crawler/unit/QueryBuilderTest.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/robotstxt/RuleSet.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/url/URLCanonicalizer.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/parser/NotAllowedContentException.java
+/home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/queryExpansion/Stopwords.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/fetcher/IdleConnectionMonitorThread.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/focused_crawler/threshold/Threshold.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/focused_crawler/seed/search/QueryBuilder.java
@@ -44,10 +44,10 @@
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/frontier/DocIDServer.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/crawler/exceptions/RedirectException.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/crawler/exceptions/PageBiggerThanMaxSizeException.java
-/home/cesar/git/ufop/yucca/yucca-java/src/main/java/queryExpansion/Stopwords.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/crawler/authentication/FormAuthInfo.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/crawler/Page.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/focused_crawler/integration/FocusedCrawlerProcessTest.java
+/home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/queryExpansion/TermFrequency.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/robotstxt/RobotstxtConfig.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/fetcher/PageFetcher.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/robotstxt/RobotstxtParser.java
@@ -60,6 +60,7 @@
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/focused_crawler/threshold/preprocessing/FullSet.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/focused_crawler/integration/Teste.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/crawler/Configurable.java
+/home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/queryExpansion/QueryExpansion.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/frontier/WorkQueues.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/crawler/exceptions/ContentFetchException.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/util/Util.java
@@ -69,7 +70,6 @@
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/frontier/WebURLTupleBinding.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/focused_crawler/seed/search/Search.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/url/UrlResolver.java
-/home/cesar/git/ufop/yucca/yucca-java/src/main/java/queryExpansion/QueryExpansion.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/focused_crawler/storer/Item.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/frontier/Counters.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/crawler/exceptions/ParseException.java

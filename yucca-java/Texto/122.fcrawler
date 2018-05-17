@@ -2,28 +2,29 @@
 Numero de termos: 12
 Termos:
 	culinaria Freq: 1
+	culinaria Freq: 2
+	culinaria Freq: 3
 	rodizio Freq: 1
 	rodizio Freq: 2
 	cardapio Freq: 1
-	culinaria Freq: 2
+	culinaria Freq: 4
 
 Numero de termos: 16
 Termos:
 	camarao Freq: 1
-	camarao Freq: 2
 	salmao Freq: 1
 	sushi Freq: 1
-	camarao Freq: 3
+	camarao Freq: 2
 
 Numero de termos: 28
 Termos:
 
 
-GenreWeight = 0.7	GenreSimilarity = 0.4811252243246881
-ContentWeight = 0.3	ContentSimilarity = 0.37688918072220445
-GenreAndContentWeight = 0.8	GenreAndContentCombination = 0.44985441124394304
+GenreWeight = 0.7	GenreSimilarity = 0.44095855184409843
+ContentWeight = 0.3	ContentSimilarity = 0.4082482904638631
+GenreAndContentWeight = 0.8	GenreAndContentCombination = 0.4311454734300278
 UrlWeight = 0.2	UrlSimilarity = 0.0
-urlText = https://guia.folha.uol.com.br/restaurantes/2018/03/no-tatuape-restaurante-casa-30-aposta-em-pratos-bem-apresentados.shtmlLogo da Folha de S.Paulo
+urlText = https://guia.folha.uol.com.br/restaurantes/2018/03/restaurante-do-acougue-feed-vai-bem-nas-carnes-mas-escorrega-nos-acompanhamentos.shtmlLogo da Folha de S.Paulo
 
             Folha de S. Paulo
           
@@ -103,8 +104,10 @@ urlText = https://guia.folha.uol.com.br/restaurantes/2018/03/no-tatuape-restaura
   
     
       
-          Assine a Folha
         
+            Assine a Folha
+          
+      
     
 
     
@@ -237,14 +240,23 @@ urlText = https://guia.folha.uol.com.br/restaurantes/2018/03/no-tatuape-restaura
                           
   
     
+  Descrição de chapéu
+            
+    
+        Crítica
+    
+            
+
+
+
     
         Restaurantes
     
   
 
-  No Tatuapé, restaurante Casa 30 aposta em pratos bem apresentados
+  Restaurante do açougue Feed vai bem nas carnes, mas escorrega nos acompanhamentos
 
-      Em ambiente descontraído, casa oferece menu sazonal 
+      Além de açougue e restaurante, espaço tem empório gourmet
   
   
     
@@ -303,7 +315,7 @@ urlText = https://guia.folha.uol.com.br/restaurantes/2018/03/no-tatuape-restaura
                       
                                               
                           
-                            02/03/2018
+                            23/03/2018
                             
                               
 
@@ -317,7 +329,7 @@ urlText = https://guia.folha.uol.com.br/restaurantes/2018/03/no-tatuape-restaura
                       
     
               
-          Marina Consiglio
+          JOSIMAR MELO
         
           
   
@@ -327,31 +339,18 @@ São Paulo
 
 
                       
-                        Polo gastronômico da zona leste, o bairro do Tatuapé ganhou mais uma novidade em novembro, o Casa 30.
-
-Numa tranquila rua comercial, o restaurante ocupa um sobrado com parklet em frente. A decoração é marcada por móveis de madeira e luz baixa. Desenhos coloridos, de temática pop, deixam o ambiente descontraído.
-
-
+                        A entrada do Feed, no Itaim, é um aperitivo visual para quem vai almoçar ali. O açougue, ocupação original do local, exibe atraentes cortes de carne (especialmente da raça bonsmara, de origem sul-africana) e itens de empório gourmet.O restaurante, nos fundos, aberto só no almoço e bem concorrido, tem poucas, mas confortáveis mesas, uma churrasqueira à vista dos clientes e uma figueira que se projeta pelo teto de vidro.As carnes são bem cuidadas, embora já me tenha cabido uma peça malpassada ainda fria no interior —mais exceção do que regra. E não faz muito meu gênero a costelinha de porco graúda, mas com pouca carne e num caudaloso molho barbecue que lhe oculta o sabor (R$ 35 a R$ 59).
   
 
     
 
         
-      O fettuccine com molho branco e crispy de presunto de Parma é servido na cesta de parmesão no restaurante Casa 30
-             - Marina Consiglio/Folhapress
+      No restaurante Feed, bife de chorizo pode vir com dadinhos de tapioca, pupunha assada na grelha e abobrinha
+             - Tricia Vieira/Divulgação
           
       
 
-Enxuto, o menu tem inspirações variadas (mas com um pezinho na Itália), com quatro sugestões de bem apresentados pratos principais. As receitas mudam a cada 30 dias.
-
-A fogaça (R$ 9) precede a refeição principal, que pode ser o fettuccine ao molho branco servido na cesta de parmesão (R$ 52) ou a moqueca de robalo com arroz de castanhas e banana caramelizada (R$ 64). 
-
-No almoço, durante a semana, serve menu-executivo por R$ 30.
-
-
-R. Antônio Camardo, 88, Tatuapé, tel. 2092-7382. 30 lugares. Seg. a sáb.: 12h às 15h e 19h às 23h. Dom.: 12h às 16h.
- 
-
+Já as peças bovinas atraem o interesse e valem a viagem. A começar pelo que é mais raro: bem maturadas e selecionadas, carnes de dianteiro podem surpreender mesmo na grelha (quando normalmente são mais usadas na panela).É o caso do “corazón de muracha”, mais suculento que propriamente macio, de sabor intenso —o corte, da paleta, é opção de prato executivo (R$ 59, de segunda a quinta).Também do dianteiro, retirado do ombro, vem o flat iron, mais fino, de sabor menos marcante, mas com ótima textura.Sai por R$ 89 e, como os demais cortes, pesa 400 g e dá direito a três acompanhamentos que ainda não animam, entre eles arroz biro-biro, farofa de bacon com ovos e vinagrete de abacaxi muito doce.Não faltam bife de chorizo, ancho, fraldinha. Quando disponíveis, pode-se provar um corte maturado a seco (dry-aged) de 30 dias (pouco tempo para trazer sabor que justifique o preço, R$ 199) ou o chorizo de wagyu (que, se for como manda o figurino, com muita gordura e pouca textura, não sei por que valeria R$ 249).Na sobremesa, oferece um correto cheesecake (a calda do dia, de maracujá, passou no teste; R$ 21). Pouca oferta de vinhos, mas há mais garrafas na loja. Já a caipirinha não tem saída, a fraca Sagatiba é a única cachaça.Avaliação: bomR. Dr. Mário Ferraz, 547, Itaim Bibi, região oeste, tel. 5627-4700. 36 lugares. Seg. a sex.: 12h às 15h. Sáb.: 12h às 16h.
                       
 
                       
@@ -377,21 +376,21 @@ R. Antônio Camardo, 88, Tatuapé, tel. 2092-7382. 30 lugares. Seg. a sáb.: 12h
                               
               
               Restaurantes
-              Novo Tessen reúne restaurante japonês, bar, terraço e balada
+              Chef Emmanuel Bassoleil renova menu do Skye com suculentos pratos de panela
             
           
             
                               
               
               Restaurantes
-              Conheça cinco almoços clássicos do centro de São Paulo
+              Novo Barú Marisqueria oferece bons produtos do mar em cozinha simples
             
           
             
                               
               
               Restaurantes
-              Ceagesp promove festival de camarão e massas para comer à vontade por R$ 69,90
+              Com preços contidos e ingredientes brasileiros, menu do Café do Farol tem falhas na execução
             
           
     
@@ -519,39 +518,119 @@ R. Antônio Camardo, 88, Tatuapé, tel. 2092-7382. 30 lugares. Seg. a sáb.: 12h
             Últimas
 
             
+        11/05/2018
+      
+            
+        Burger Fest começa nesta sexta com mais de 90 participantes
+Guloseimas   15h29
+      
+    
+      
+            
+        Guia indica restaurantes para curtir o Dia das Mães com filhos pequenos
+Restaurantes   02h20
+      
+    
+      
+            
+        Casa usa cacau da Bahia na produção de seus chocolates
+Guloseimas   02h00
+      
+    
+      
+            
+        Japonês de 75 anos comanda boa casa para adoradores de sushis
+Restaurantes   02h00
+      
+    
+      
+            
+        Casa Tucupi oferece culinária acreana
+Restaurantes   02h00
+      
+    
+      
+          
+          Confira dicas de restaurantes e bares para filhos levarem suas mães
+Restaurantes   02h00
+        
+      
+      
+          
+          La Macca tem cozinha italiana sem grandes novidades e preços elevados; veja avaliação
+Restaurantes   02h00
+        
+      
+        04/05/2018
+      
+          
+          Guia testa rodízios inusitados que vão de hambúrgueres a açaí
+Guloseimas   02h20
+        
+      
+      
+          
+          Bar Guarita inaugura hamburgueria com drinques no Baixo Augusta
+Guloseimas   02h00
+        
+      
+      
+          
+          Restaurante Nahná serve comida árabe em Higienópolis
+Restaurantes   02h00
+        
+      
+      
+          
+          Didático, Bia Hoi apresenta sabores da culinária vietnamita; veja avaliação
+Restaurantes   02h00
+        
+      
+      
+          
+          Restaurante Mensa tem menu autoral e sazonal por R$ 70
+Restaurantes   02h00
+        
+      
+      
+          
+          Loja de vinhos serve massas que não decepcionam nem doem no bolso
+Restaurantes   02h00
+        
+      
         02/05/2018
       
-            
-        Festival de sopas da Ceagesp começa nesta quarta com sabores para comer à vontade por R$ 39,90
+          
+          Festival de sopas da Ceagesp começa nesta quarta com sabores para comer à vontade por R$ 39,90
 Restaurantes   17h59
+        
       
-    
         30/04/2018
       
-            
-        Edifício tombado no centro de SP ganha karaokê, bar, restaurante e balada
+          
+          Edifício tombado no centro de SP ganha karaokê, bar, restaurante e balada
 Bares   16h18
+        
       
-    
         27/04/2018
       
-            
-        Conectado ao presente, novo restaurante Homa celebra os vegetais e os orgânicos
+          
+          Conectado ao presente, novo restaurante Homa celebra os vegetais e os orgânicos
 Restaurantes   02h00
+        
       
-    
       
-            
-        Restaurante Attimo estreia pratos e decoração novos
+          
+          Restaurante Attimo estreia pratos e decoração novos
 Restaurantes   02h00
+        
       
-    
       
-            
-        Barú Marisqueria tem clima de praia e bons pratos de peixes e frutos do mar; veja avaliação
+          
+          Barú Marisqueria tem clima de praia e bons pratos de peixes e frutos do mar; veja avaliação
 Restaurantes   02h00
+        
       
-    
       
           
           Depois de 111 anos, Cantina Capuano fecha as portas no Bexiga
@@ -1048,86 +1127,6 @@ São Paulo   16h44
 Restaurantes   02h30
         
       
-      
-          
-          Opinião: Comida do futuro deve olhar mais para fazendas e menos para astronautas
-Restaurantes   02h00
-        
-      
-      
-          
-          Futuro Refeitório serve café da manhã o dia todo e receitas que destacam vegetais
-Restaurantes   02h00
-        
-      
-      
-          
-          Chef que fez fama em Minas Gerais traz seu restaurante Kitanda Brasil para São Paulo
-Restaurantes   02h00
-        
-      
-      
-          
-          Restaurante Avenida Café combina França e Itália em pratos autorais; veja avaliação
-Restaurantes   02h00
-        
-      
-      
-          
-          Crítica: Focado em carnes, Varanda abre filial com bom menu de peixes e frutos do mar 
-Restaurantes   02h00
-        
-      
-      
-          
-          Confeiteira ?Marilia Zylbersztajn abre delicatessen no Itaim Bibi
-Guloseimas   02h00
-        
-      
-        25/01/2018
-      
-          
-          Chef Jefferson Rueda inaugura lanchonete Hot Pork na região central 
-Restaurantes   10h00
-        
-      
-        19/01/2018
-      
-          
-          Melhor de São Paulo? 'Guia' reúne lugares eleitos e autodeclarados campeões da cidade 
-Guloseimas   02h30
-        
-      
-      
-          
-          Animal Chef e Alfreddo Veggani, que surgiram em feiras veganas, abrem casas em SP
-Guloseimas   02h00
-        
-      
-      
-          
-          Hamburgueria C6 Burger abre as portas no Mercado de Pinheiros
-Guloseimas   02h00
-        
-      
-      
-          
-          MiCi tem receitas feitas com cuidado e gosto, mas falta leveza ao resultado; veja avaliação
-Restaurantes   02h00
-        
-      
-      
-          
-          Minúsculo, Báhn Mì serve cozinha típica das ruas do Vietnã
-Restaurantes   02h00
-        
-      
-      
-          
-          Nova casa de Flávio Miyamura tem cozinha contemporânea com toques asiáticos
-Restaurantes   02h00
-        
-      
 
 Ver mais
           
@@ -1138,11 +1137,11 @@ Ver mais
             Mais lidas
 
             
-              Festival de sopas da Ceagesp começa nesta quarta com sabores para comer à vontade por R$ 39,90
-'Verdade ou Desafio', 'O Parque' e mais cinco filmes estreiam nesta quinta
-Simples, filme francês 'O Parque' é pura subversão
-Marcos Caruso atua em 'O Escândalo Philippe Dussaert', que discute limites da arte
-Quinta tem shows gratuitos de Anelis Assumpção e de João Leão; veja dez atrações em SP
+              Xuxa cancela participação na Virada Cultural em São Paulo
+'Deadpool 2', 'O Processo' e mais cinco filmes estreiam nesta quinta
+Sentado, com crianças ou vontade de dançar, veja atrações da Virada Cultural para curtir do seu jeito
+La Macca tem cozinha italiana sem grandes novidades e preços elevados; veja avaliação
+Arnaldo Baptista faz show gratuito nesta quinta em São Paulo; veja dez atrações na cidade
 
             
           
@@ -1329,13 +1328,9 @@ Quinta tem shows gratuitos de Anelis Assumpção e de João Leão; veja dez atra
     
       
         
-            RoteirosCinemaRestaurantesGuloseimas
+            Roteiros
           
-            PasseiosExposiçõesShows
-          
-            TeatroBaresConcertos
-          
-            CriançaDançaNoite
+            CinemaRestaurantesGuloseimasPasseiosExposiçõesShowsTeatroBaresConcertosCriançaDançaNoite
           
       
     

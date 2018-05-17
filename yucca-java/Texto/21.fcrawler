@@ -2,7 +2,6 @@
 Numero de termos: 12
 Termos:
 	culinaria Freq: 1
-	endereco Freq: 1
 	culinaria Freq: 2
 	culinaria Freq: 3
 	culinaria Freq: 4
@@ -22,11 +21,11 @@ Numero de termos: 28
 Termos:
 
 
-GenreWeight = 0.7	GenreSimilarity = 0.4666282626286914
+GenreWeight = 0.7	GenreSimilarity = 0.42163702135578385
 ContentWeight = 0.3	ContentSimilarity = 0.4082482904638631
-GenreAndContentWeight = 0.8	GenreAndContentCombination = 0.4491142709792429
+GenreAndContentWeight = 0.8	GenreAndContentCombination = 0.4176204020882076
 UrlWeight = 0.2	UrlSimilarity = 0.0
-urlText = https://guia.folha.uol.com.br/restaurantes/2018/03/evvai-tem-irmao-com-menu-enxuto-e-preco-mais-em-conta-em-shopping.shtmlLogo da Folha de S.Paulo
+urlText = https://guia.folha.uol.com.br/restaurantes/2018/02/restaurante-maria-farinha-serve-comida-caipira-em-garagem-veja-avaliacao.shtmlLogo da Folha de S.Paulo
 
             Folha de S. Paulo
           
@@ -247,9 +246,9 @@ urlText = https://guia.folha.uol.com.br/restaurantes/2018/03/evvai-tem-irmao-com
     
   
 
-  Evvai tem irmão com menu enxuto e preço mais em conta em shopping
+  Restaurante Maria Farinha serve comida caipira em garagem; veja avaliação
 
-      Tavola Evvai fica dentro da loja da Grand Cru no MorumbiShopping
+      Toda semana, jornalistas da Folha avaliam restaurantes no quadro gastronômico 
   
   
     
@@ -308,7 +307,7 @@ urlText = https://guia.folha.uol.com.br/restaurantes/2018/03/evvai-tem-irmao-com
                       
                                               
                           
-                            09/03/2018
+                            09/02/2018
                             
                               
 
@@ -320,41 +319,20 @@ urlText = https://guia.folha.uol.com.br/restaurantes/2018/03/evvai-tem-irmao-com
                       
                       
                       
-    
-              
-          Marina Consiglio
-        
-          
-  
-
                       
-São Paulo 
-
-
                       
-                        O jovem chef Luiz Filipe Souza herdou a cozinha do Loi, casa de seu antigo tutor, o renomado Salvatore Loi, e a transformou no Evvai. O restaurante, de culinária autoral italiana, foi eleito um dos melhores de 2017 pelo Guia.
-
-
+                        No largo da Batata, restaurante Maria Farinha oferece cozinha do interior paulista, com receitas como os bolinhos caipira —feitos de farinha de milho e recheados de carne. Veja a avaliação dos críticos da Folha.Avaliação: bomR. Pe. Carvalho, 771, Pinheiros, região oeste, tel. 3031-5496. 42 lugares. Ter. a sex.: 12h às 16h. Sáb.: 12h às 18h. Dias 10 a 14/2: fechado.
   
 
     
 
         
-      Frango servido com polenta cremosa, cogumelos e molica é opção de principal do Tavola Evvai, no MorumbiShopping
-             - Mario Rodrigues/Divulgação
+      Baião de dois com ovo do restaurante Maria Farinha Cozinha, em Pinheiros
+             - Alberto Rocha/Folhapress
           
       
 
-
-
-O que poucos sabem é que a casa tem uma irmã com preços mais acessíveis, a Tavola Evvai, desde julho dentro da loja Grand Cru no MorumbiShopping.
-
-O endereço, que abrigava outro ponto de Loi, carrega no menu enxuto, de pratos rápidos, o DNA do Evvai.
-
-Receitas como o frango com polenta cremosa, cogumelos frescos e molica (R$ 52) e o radiatore (massa que lembra um radiador) ao pesto com pistache e ricota (R$ 45) são alguns dos destaques.
-
-MorumbiShopping - Av. Roque Petroni Jr., 1.089, Jardim das Acácias, região sul, tel. 5181-0447. 42 lugares. Seg. a sáb.: 12h às 22h. Dom.: 12h às 20h.
-
+ ALCINO LEITE NETO, editor da "Três Estrelas"Excepcionalmente, não houve avaliaçãoLUIZA FECAROTTA, crítica da FolhaComida caipira, bem temperada e com história, numa garagem no largo da BatataAvaliação: bomMANUEL DA COSTA PINTO, colunista da sãopauloEntrega o que promete: o trivial brasileiro em ambiente descontraídoAvaliação: muito bomMARCELO KATSUKI, blogueiro da FolhaCozinha brasileira com gostinho caseiro, de raspar o prato. Ambiente simples, serviço gentilAvaliação: muito bom
                       
 
                       
@@ -380,21 +358,21 @@ MorumbiShopping - Av. Roque Petroni Jr., 1.089, Jardim das Acácias, região sul
                               
               
               Restaurantes
-              Chef Emmanuel Bassoleil renova menu do Skye com suculentos pratos de panela
+              Hou oferece culinária tradicional chinesa em ambiente moderno; veja avaliação
             
           
             
                               
               
               Restaurantes
-              Novo Tessen reúne restaurante japonês, bar, terraço e balada
+              Restaurante Avenida Café combina França e Itália em pratos autorais; veja avaliação
             
           
             
                               
               
               Restaurantes
-              Balaio é escolhido o melhor novo restaurante do ano por júri; público indica Evvai
+              MiCi tem receitas feitas com cuidado e gosto, mas falta leveza ao resultado; veja avaliação
             
           
     
