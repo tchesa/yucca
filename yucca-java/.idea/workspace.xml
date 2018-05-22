@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e394dbfe-17eb-4338-8707-ebb15abca54e" name="Default" comment="" />
+    <list default="true" id="e394dbfe-17eb-4338-8707-ebb15abca54e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Texto/1.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1.fcrawler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Texto/120.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/120.fcrawler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Texto/121.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/121.fcrawler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Texto/122.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/122.fcrawler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Texto/2.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/2.fcrawler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Texto/20.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/20.fcrawler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Texto/21.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/21.fcrawler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Texto/22.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/22.fcrawler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Texto/23.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/23.fcrawler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Texto/70.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/70.fcrawler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/focused-crawler-seq.iml" beforeDir="false" afterPath="$PROJECT_DIR$/focused-crawler-seq.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processProperties/frontier/00000000.jdb" beforeDir="false" afterPath="$PROJECT_DIR$/processProperties/frontier/00000000.jdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/similarity.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/similarity.fcrawler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/similarityObject.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/similarityObject.fcrawler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/QueryExpansion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/QueryExpansion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/TermFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/TermFrequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/org.jsoup/jsoup/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/org.jsoup/jsoup/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/org.jsoup/jsoup/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/org.jsoup/jsoup/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/jsoup/nodes/entities-base.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/jsoup/nodes/entities-full.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/dependency-maven-plugin-markers/org.jsoup-jsoup-jar-1.8.3.marker" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,20 +41,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CrawlerController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CrawlerController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="117" column="13" lean-forward="true" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
+            <state relative-caret-position="105">
+              <caret line="268" selection-start-line="268" selection-end-line="268" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TermFrequency.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="QueryExpansion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/QueryExpansion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TermFrequency.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/TermFrequency.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="42" selection-start-column="42" selection-end-column="42" />
+            <state relative-caret-position="240">
+              <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContentExtractor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/ContentExtractor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="53" column="47" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#ContentExtractor#0;class#ContentExtractor#0" />
+                <element signature="e#1890#1891#0" expanded="true" />
+                <element signature="e#1951#1952#0" expanded="true" />
+                <element signature="e#5907#5908#0" expanded="true" />
+                <element signature="e#5954#5955#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,9 +106,23 @@
       <find>groupId</find>
       <find>similaridad</find>
       <find>content</find>
-      <find>genreTerms</find>
       <find>loadGenreTerms</find>
+      <find>ge</find>
+      <find>genre</find>
+      <find>genreTerms</find>
+      <find>logger.info(&quot;</find>
+      <find>numberOfCrawlers</find>
+      <find>controller</find>
+      <find>seeds</find>
+      <find>System.out.println</find>
+      <find>print</find>
+      <find>w[l]</find>
+      <find>jsou</find>
+      <find>static</find>
     </findStrings>
+    <replaceStrings>
+      <replace>System.out.println(&quot;LOG:</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -67,13 +141,14 @@
         <option value="$PROJECT_DIR$/src/main/java/queryExpansion/Stopwords.java" />
         <option value="$PROJECT_DIR$/src/main/java/queryExpansion/QueryExpansion.java" />
         <option value="$PROJECT_DIR$/src/main/java/queryExpansion/TermFrequency.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/util/Loader.java" />
         <option value="$PROJECT_DIR$/classpath.bat" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/QueryExpansion.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/TermFrequency.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/Stopwords.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/QueryExpansion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/ContentExtractor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/TermFrequency.java" />
       </list>
     </option>
   </component>
@@ -101,8 +176,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1920" />
+    <option name="y" value="549" />
+    <option name="width" value="960" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -113,8 +188,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,11 +198,64 @@
               <item name="yucca" type="b2602c69:ProjectViewProjectNode" />
               <item name="yucca-java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="yucca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yucca-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yucca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yucca-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yucca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yucca-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yucca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yucca-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gaid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yucca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yucca-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gaid" type="462c0819:PsiDirectoryNode" />
+              <item name="focused_crawler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yucca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yucca-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gaid" type="462c0819:PsiDirectoryNode" />
+              <item name="focused_crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="crawler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yucca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yucca-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gaid" type="462c0819:PsiDirectoryNode" />
+              <item name="queryExpansion" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -334,7 +463,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" sideWeight="0.49844238" visible="true" weight="0.15520833" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32706374" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37304077" />
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3092999" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -347,60 +476,23 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32810867" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" x="0" y="0" width="430" height="857" id="Documentation" order="4" sideWeight="0.50155765" side_tool="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32810867" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/classpath.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8670">
-          <caret line="578" column="32" selection-start-line="578" selection-start-column="32" selection-end-line="578" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2925">
-          <caret line="219" column="36" selection-start-line="219" selection-start-column="36" selection-end-line="219" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/heuLimSim.collect">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/integration/FocusedCrawlerProcessTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classpath.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/NumberFormatException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -617,13 +709,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/queryExpansion/TermFrequency.java" />
     <entry file="file://$PROJECT_DIR$/classpath.bat">
       <provider selected="true" editor-type-id="text-editor">
@@ -639,38 +724,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="149" column="21" selection-start-line="149" selection-start-column="21" selection-end-line="149" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/Stopwords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        <state relative-caret-position="405">
+          <caret line="96" column="38" selection-start-line="96" selection-start-column="38" selection-end-line="96" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/QueryExpansion.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerWorker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/TermFrequency.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="42" selection-start-column="42" selection-end-column="42" />
+        <state relative-caret-position="60">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="117" column="13" lean-forward="true" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
+        <state relative-caret-position="105">
+          <caret line="268" selection-start-line="268" selection-end-line="268" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/QueryExpansion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filename.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-142" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-core/5.3.1/lucene-core-5.3.1-sources.jar!/org/apache/lucene/util/Version.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.8.3/jsoup-1.8.3-sources.jar!/org/jsoup/nodes/Document.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="38" column="10" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.8.3/jsoup-1.8.3-sources.jar!/org/jsoup/Jsoup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.jar!/org/jsoup/nodes/Document.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="264" column="17" selection-start-line="264" selection-start-column="17" selection-end-line="264" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="108" column="25" selection-start-line="108" selection-start-column="25" selection-end-line="108" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/ContentExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="53" column="47" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#ContentExtractor#0;class#ContentExtractor#0" />
+            <element signature="e#1890#1891#0" expanded="true" />
+            <element signature="e#1951#1952#0" expanded="true" />
+            <element signature="e#5907#5908#0" expanded="true" />
+            <element signature="e#5954#5955#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/TermFrequency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

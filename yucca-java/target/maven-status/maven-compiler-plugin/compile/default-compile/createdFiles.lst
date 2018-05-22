@@ -7,6 +7,7 @@ edu/uci/ics/crawler4j/url/TLDList.class
 edu/uci/ics/crawler4j/robotstxt/RobotstxtServer.class
 br/ufop/decom/gaid/focused_crawler/storer/Item.class
 br/ufop/decom/gaid/focused_crawler/seed/search/QueryBuilder.class
+br/ufop/decom/gaid/queryExpansion/ContentExtractor$1.class
 edu/uci/ics/crawler4j/fetcher/PageFetcher$1.class
 edu/uci/ics/crawler4j/crawler/CrawlController$WebCrawlerFactory.class
 br/ufop/decom/gaid/focused_crawler/integration/FocusedCrawlerProcessTest.class
@@ -46,7 +47,9 @@ br/ufop/decom/gaid/focused_crawler/threshold/preprocessing/FullSet.class
 edu/uci/ics/crawler4j/crawler/CrawlConfig.class
 br/ufop/decom/gaid/focused_crawler/threshold/summarization/Median.class
 edu/uci/ics/crawler4j/frontier/Counters.class
+br/ufop/decom/gaid/queryExpansion/ContentExtractor$FormattingVisitor.class
 edu/uci/ics/crawler4j/frontier/InProcessPagesDB.class
+br/ufop/decom/gaid/queryExpansion/ContentExtractor.class
 edu/uci/ics/crawler4j/crawler/WebCrawler.class
 br/ufop/decom/gaid/focused_crawler/seed/search/Search.class
 edu/uci/ics/crawler4j/url/WebURL.class

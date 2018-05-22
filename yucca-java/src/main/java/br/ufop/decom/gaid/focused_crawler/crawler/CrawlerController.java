@@ -6,6 +6,8 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.regex.Pattern;
 
+import br.ufop.decom.gaid.queryExpansion.QueryExpansion;
+import br.ufop.decom.gaid.queryExpansion.TermFrequency;
 import javafx.beans.binding.ListBinding;
 import javafx.collections.ObservableList;
 import org.slf4j.Logger;
@@ -64,7 +66,7 @@ public class CrawlerController {
 
     public void init(String propPath) throws Exception {
 
-        logger.info("Initializing crawler's configuration...");
+        System.out.println("LOG: Initializing crawler's configuration...");
 
 		/*
          * Initializing genre and content terms for future purposes
@@ -189,6 +191,7 @@ public class CrawlerController {
                         linhaDoArquivo = bufferedReader.readLine();
                     }
                     for (WebURL seed : seeds) {
+                        System.out.println("num seeds: " + seeds.size());
                         controller.addSeed(seed.getURL());
                     }
                     break;
@@ -242,7 +245,7 @@ public class CrawlerController {
             bufferedReader.close();
             System.out.print("threshold: ");
             System.out.println(threshold);
-            logger.info("Similarity threshold were defined as " + threshold);
+            System.out.println("LOG: Similarity threshold were defined as " + threshold);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -253,15 +256,28 @@ public class CrawlerController {
         printFile.printf("Similarity= %f", threshold);
         printFile.close();
         file.close();
+
         /*Salvando o valor da similaridade em um objeto*/
         ObjectOutputStream os = null;
         os = new ObjectOutputStream(new FileOutputStream("similarityObject.fcrawler"));
         os.writeObject(threshold);
         os.close();
 
+        /* Expansão dos termos */
 
-        logger.info("Starting crawl process.");
+        System.out.println("Query Expansion started");
 
+        QueryExpansion expansion = new TermFrequency();
+        String[] seedUrls = new String[seeds.size()];
+        for (int i = 0; i < seeds.size(); i++) {
+            seedUrls[i] = seeds.get(i).getURL();
+        }
+
+//        String[] expandedTerms = expansion.getTerms((WebURL[])seeds.toArray());
+        String[] expandedTerms = expansion.getTerms(seedUrls);
+//        for (String term : expandedTerms) {
+            System.out.println("{" + String.join(", ", expandedTerms) + "}");
+//        }
     }
 
     public void run() {
@@ -269,9 +285,12 @@ public class CrawlerController {
 		 * Start the crawl. This is a blocking operation, meaning that your code
 		 * will reach the line after this only when crawling is finished.
 		 */
+
+        System.out.println("LOG: Starting crawl process.");
+
         controller.start(CrawlerWorker.class, numberOfCrawlers);
 
-        logger.info("Crawl process finished.");
+        System.out.println("LOG: Crawl process finished.");
     }
 
 }

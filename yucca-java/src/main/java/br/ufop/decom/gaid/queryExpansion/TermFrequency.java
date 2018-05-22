@@ -4,15 +4,19 @@ import java.util.*;
 import java.io.IOException;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
+import java.io.PrintWriter;
 
 public class TermFrequency extends QueryExpansion {
 
-    public TermFrequency () {
+    private ContentExtractor extractor;
 
+    public TermFrequency () {
+        extractor = new ContentExtractor();
     }
 
     @Override
     public String[] getTerms(String[] urls) {
+        System.out.println("num urls: " + urls.length);
         /*String[] urls = new String[]{
             "https://docs.python.org/3/tutorial/datastructures.html",
             "http://thomas-cokelaer.info/tutorials/python/data_structures.html",
@@ -30,10 +34,14 @@ public class TermFrequency extends QueryExpansion {
         for (String url : urls) {
             try {
                 String dom = readStringFromURL(url); // get page info
-                System.out.print(dom.length() + ": "); // page string length
+//                System.out.print(dom.length() + ": "); // page string length
+//                System.out.println(dom);
                 String[] words = cleanHtml(dom); // turns the page into an array of words
                 words = removeStopwords(words); // removes the stopwords from the list
                 System.out.println(String.join(", ", words));
+                System.out.println(url);
+//                PrintWriter out = new PrintWriter("filename.txt");
+//                out.println(dom);
                 int n = words.length;
                 N += n;
                 for (int i = 0; i < n; i++) { // counting frequency of terms
@@ -50,6 +58,7 @@ public class TermFrequency extends QueryExpansion {
                         AddTerm(word, tfTriple, positions, i, n);
                     }
                 }
+//                System.in.read();
             } catch (Throwable err) {
                 System.out.println(err);
             }
@@ -65,14 +74,14 @@ public class TermFrequency extends QueryExpansion {
         Object[] entries = frequency.entrySet().toArray(); // turns the hashmap into an key/value array
         sort(entries, 0, entries.length-1); // sort downward by value
 
-        int k = 10;
+        int k = 100;
         if (k > entries.length) k = entries.length;
         String[] terms = new String[k];
         // gets the k-more-frequent keys
 
         for (int i = 0; i < k; i++) {
             Map.Entry<String, Float> entry = (Map.Entry<String, Float>)entries[i];
-            System.out.println(String.format("%s: %f", entry.getKey(), entry.getValue()));
+//            System.out.println(String.format("%s: %f", entry.getKey(), entry.getValue()));
             terms[i] = entry.getKey();
         }
         return terms;
@@ -92,23 +101,24 @@ public class TermFrequency extends QueryExpansion {
         }
     }
 
-    private static String[] cleanHtml(String dom) throws StackOverflowError {
+    private String[] cleanHtml(String dom) throws StackOverflowError {
         try {
             // remove script/style/comment blocks and general tags
-            dom = new jregex.Pattern("<script.*?>(\n|.)*?</script>|<style.*?>(\n|.)*?</style>|<!--(\n|.)*?-->|<(.|\n)*?>|&.*?;").replacer("").replace(dom);
+            // dom = new jregex.Pattern("<script(\n|.)*?>(\n|.)*?(</script>|$)|<style(\n|.)*?>(\n|.)*?(</style>|$)|<!--(\n|.)*?(-->|$)|<(.|\n)*?>|&.*?/g").replacer("").replace(dom);
+            dom = extractor.extractFromDocument(dom);
             // remove non alphanumeric
-            dom = new jregex.Pattern("\\W|\\d+").replacer(" ").replace(dom);
+            dom = new jregex.Pattern("[^A-zÀ-ú]|\\d+").replacer(" ").replace(dom);
             // converts groups of whitespaces/breaklines into a tfSingle whitespace
             dom = new jregex.Pattern("(\n|\\s)+").replacer(" ").replace(dom);
             return dom.trim().toLowerCase().split(" ");
         } catch (Exception e) {
-            System.out.println(e);
+//            System.out.println(e);
             return new String[0];
         }
     }
 
     private static String[] removeStopwords(String[] words) {
-        String language = "en"; // TODO get language automaticaly
+        String language = "pt-br"; // TODO get language automatically
         List<String> list = new ArrayList<String>();
         String[] stopwords = Stopwords.getStopwords(language);
         for (String w : words) {

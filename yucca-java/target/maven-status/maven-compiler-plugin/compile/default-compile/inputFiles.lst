@@ -11,6 +11,7 @@
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/focused_crawler/threshold/preprocessing/IQR.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/focused_crawler/threshold/ThresholdImpl.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/focused_crawler/integration/GoogleAjaxSearchTest.java
+/home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/queryExpansion/ContentExtractor.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/crawler/authentication/NtAuthInfo.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/util/Net.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/frontier/InProcessPagesDB.java
