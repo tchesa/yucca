@@ -16,7 +16,7 @@ public class TermFrequency extends QueryExpansion {
 
     @Override
     public String[] getTerms(String[] urls) {
-        System.out.println("num urls: " + urls.length);
+//        System.out.println("num urls: " + urls.length);
         /*String[] urls = new String[]{
             "https://docs.python.org/3/tutorial/datastructures.html",
             "http://thomas-cokelaer.info/tutorials/python/data_structures.html",
@@ -38,8 +38,8 @@ public class TermFrequency extends QueryExpansion {
 //                System.out.println(dom);
                 String[] words = cleanHtml(dom); // turns the page into an array of words
                 words = removeStopwords(words); // removes the stopwords from the list
-                System.out.println(String.join(", ", words));
-                System.out.println(url);
+//                System.out.println(String.join(", ", words));
+//                System.out.println(url);
 //                PrintWriter out = new PrintWriter("filename.txt");
 //                out.println(dom);
                 int n = words.length;
@@ -106,6 +106,7 @@ public class TermFrequency extends QueryExpansion {
             // remove script/style/comment blocks and general tags
             // dom = new jregex.Pattern("<script(\n|.)*?>(\n|.)*?(</script>|$)|<style(\n|.)*?>(\n|.)*?(</style>|$)|<!--(\n|.)*?(-->|$)|<(.|\n)*?>|&.*?/g").replacer("").replace(dom);
             dom = extractor.extractFromDocument(dom);
+//            System.out.println("EXTRACTED: " + dom);
             // remove non alphanumeric
             dom = new jregex.Pattern("[^A-zÀ-ú]|\\d+").replacer(" ").replace(dom);
             // converts groups of whitespaces/breaklines into a tfSingle whitespace

@@ -2,34 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e394dbfe-17eb-4338-8707-ebb15abca54e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Texto/1.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/120.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/120.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/121.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/121.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/122.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/122.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/2.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/2.fcrawler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Texto/19.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/19.fcrawler" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Texto/20.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/20.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/21.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/21.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/22.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/22.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/23.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/23.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/70.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/70.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/focused-crawler-seq.iml" beforeDir="false" afterPath="$PROJECT_DIR$/focused-crawler-seq.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Texto/24.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/24.fcrawler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Texto/25.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/25.fcrawler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Texto/26.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/26.fcrawler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Texto/27.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/27.fcrawler" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/processProperties/frontier/00000000.jdb" beforeDir="false" afterPath="$PROJECT_DIR$/processProperties/frontier/00000000.jdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/similarity.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/similarity.fcrawler" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/similarityObject.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/similarityObject.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/QueryExpansion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/QueryExpansion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/Stopwords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/Stopwords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/TermFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/TermFrequency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/org.jsoup/jsoup/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/org.jsoup/jsoup/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/org.jsoup/jsoup/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/org.jsoup/jsoup/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jsoup/nodes/entities-base.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jsoup/nodes/entities-full.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency-maven-plugin-markers/org.jsoup-jsoup-jar-1.8.3.marker" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,7 +30,7 @@
       <file leaf-file-name="CrawlerController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="3630">
               <caret line="268" selection-start-line="268" selection-end-line="268" />
             </state>
           </provider>
@@ -59,16 +45,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TermFrequency.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TermFrequency.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/TermFrequency.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+            <state relative-caret-position="420">
+              <caret line="39" column="51" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#5524#5532#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stopwords.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/Stopwords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="92" column="53" selection-start-line="92" selection-start-column="53" selection-end-line="92" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -83,8 +77,6 @@
                 <element signature="method#ContentExtractor#0;class#ContentExtractor#0" />
                 <element signature="e#1890#1891#0" expanded="true" />
                 <element signature="e#1951#1952#0" expanded="true" />
-                <element signature="e#5907#5908#0" expanded="true" />
-                <element signature="e#5954#5955#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,12 +135,12 @@
         <option value="$PROJECT_DIR$/src/main/java/queryExpansion/TermFrequency.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/util/Loader.java" />
         <option value="$PROJECT_DIR$/classpath.bat" />
-        <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/Stopwords.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/QueryExpansion.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/ContentExtractor.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/TermFrequency.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/Stopwords.java" />
       </list>
     </option>
   </component>
@@ -189,8 +181,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -256,6 +246,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -464,10 +456,10 @@
       <window_info anchor="right" id="Maven Projects" order="3" sideWeight="0.49844238" visible="true" weight="0.15520833" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.37304077" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3092999" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3092999" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25625" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -724,13 +716,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/Stopwords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="96" column="38" selection-start-line="96" selection-start-column="38" selection-end-line="96" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerWorker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -740,7 +725,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="3630">
           <caret line="268" selection-start-line="268" selection-end-line="268" />
         </state>
       </provider>
@@ -752,11 +737,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/filename.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-142" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/filename.txt" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-core/5.3.1/lucene-core-5.3.1-sources.jar!/org/apache/lucene/util/Version.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="347">
@@ -775,9 +756,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -804,21 +782,25 @@
             <element signature="method#ContentExtractor#0;class#ContentExtractor#0" />
             <element signature="e#1890#1891#0" expanded="true" />
             <element signature="e#1951#1952#0" expanded="true" />
-            <element signature="e#5907#5908#0" expanded="true" />
-            <element signature="e#5954#5955#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/TermFrequency.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+        <state relative-caret-position="420">
+          <caret line="39" column="51" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#5524#5532#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/Stopwords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="92" column="53" selection-start-line="92" selection-start-column="53" selection-end-line="92" selection-end-column="53" />
         </state>
       </provider>
     </entry>

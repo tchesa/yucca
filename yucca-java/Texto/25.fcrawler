@@ -887,3 +887,82 @@ Empresa Livraria da Folha LTDA, CNPJ nº 09.291.297/0001-66 - Av. Tucunaré, 113
 
 
 Voltar ao topo da página
+Numero de termos: 12
+Termos:
+	cardapio Freq: 1
+	contato Freq: 1
+	reserva Freq: 1
+	cardapio Freq: 2
+	contato Freq: 2
+
+Numero de termos: 16
+Termos:
+	sushi Freq: 1
+	sushi Freq: 2
+
+Numero de termos: 28
+Termos:
+
+
+GenreWeight = 0.7	GenreSimilarity = 0.4811252243246881
+ContentWeight = 0.3	ContentSimilarity = 0.25
+GenreAndContentWeight = 0.8	GenreAndContentCombination = 0.4117876570272817
+UrlWeight = 0.2	UrlSimilarity = 0.0
+urlText = http://www.sushijapinheiros.com.br/promo.php11 3034-1210
+    
+    	Home
+        Sobre nós
+        Ambiente
+        Cardápio
+        
+        Contato
+    
+		
+        	Promoção do mês
+            
+                
+                Estabelecimento: Theodora Sushi
+                Oferta: Desconto de 20% no jantar.
+                Regulamento: Kuppon válido de segunda a sábado, das 19h às 23h, somente para consumo no local. Kuppon não cumulativo. O desconto de 20% é válido sobre o consumo total. Válido por 7 dias. Necessário fazer a reserva através do site para utilização do Kuppon. Atenção será aceito somente Kuppon impresso.
+                
+                    
+                        Nome completo
+                        
+                    
+                    
+                        Data de Nascimento
+                        
+                    
+                    
+                        E-mail
+                        
+                    
+                    
+                
+            
+        
+        
+    
+    
+    
+
+
+	
+    	Home
+        |
+        Sobre nós
+        |
+        Ambiente
+        |
+        Eventos
+        |
+        Cardápio
+        |
+        Reservas
+        |
+        Promoções
+        |
+        Contato
+    
+    Rua Diogo Moreira, 138 - Pinheiros - SP - 05423-010
+    Copyright © 2018 Theodora Sushi. All Rights Reserved. Developed by DAMPA

@@ -13353,3 +13353,91 @@ urlText = http://www.sushijapinheiros.com.br/reservas.php11 3034-1210
     
     Rua Diogo Moreira, 138 - Pinheiros - SP - 05423-010
     Copyright © 2018 Theodora Sushi. All Rights Reserved. Developed by DAMPA
+Numero de termos: 12
+Termos:
+	cardapio Freq: 1
+	contato Freq: 1
+	reserva Freq: 1
+	telefone Freq: 1
+	reserva Freq: 2
+	cardapio Freq: 2
+	contato Freq: 2
+
+Numero de termos: 16
+Termos:
+	sushi Freq: 1
+
+Numero de termos: 28
+Termos:
+
+
+GenreWeight = 0.7	GenreSimilarity = 0.5604485383178051
+ContentWeight = 0.3	ContentSimilarity = 0.25
+GenreAndContentWeight = 0.8	GenreAndContentCombination = 0.4673139768224635
+UrlWeight = 0.2	UrlSimilarity = 0.0
+urlText = http://www.sushijapinheiros.com.br/reservas.php11 3034-1210
+    
+    	Home
+        Sobre nós
+        Ambiente
+        Cardápio
+        
+        Contato
+    
+		
+        	Reservas
+            
+
+                Responsável pela reserva
+                
+                
+                E-mail
+                
+                
+                Telefone
+                
+                
+                Quantidade de Pessoas
+                
+                
+                Horário
+                
+                
+                Data para a reserva
+                
+                
+                Observações
+                
+                
+                Didite o código de verificação
+                
+                
+                
+                
+            
+        
+        
+    
+    
+    
+
+
+	
+    	Home
+        |
+        Sobre nós
+        |
+        Ambiente
+        |
+        Eventos
+        |
+        Cardápio
+        |
+        Reservas
+        |
+        Promoções
+        |
+        Contato
+    
+    Rua Diogo Moreira, 138 - Pinheiros - SP - 05423-010
+    Copyright © 2018 Theodora Sushi. All Rights Reserved. Developed by DAMPA
