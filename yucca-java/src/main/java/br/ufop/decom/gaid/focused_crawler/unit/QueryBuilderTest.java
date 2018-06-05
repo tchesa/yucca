@@ -10,7 +10,7 @@ import br.ufop.decom.gaid.focused_crawler.util.Loader;
 
 public class QueryBuilderTest {
 	
-	private static Loader loader = Loader.getInstace();
+	private static Loader loader = Loader.getInstance();
 	
 	QueryBuilder queryBuilder = new QueryBuilder();
 	

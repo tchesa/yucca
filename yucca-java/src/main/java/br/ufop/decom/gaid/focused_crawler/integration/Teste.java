@@ -76,7 +76,7 @@ public class Teste {
             "\n" +
             "Sign in|Recent Site Activity|Report Abuse|Print Page|Powered By Google Sites";
 
-    private Loader loader = Loader.getInstace();
+    private Loader loader = Loader.getInstance();
     public SimilarityMetric similarityMetric;
 
     private List<String> genreTerms;

@@ -15,15 +15,8 @@ public class TermFrequency extends QueryExpansion {
     }
 
     @Override
-    public String[] getTerms(String[] urls) {
-//        System.out.println("num urls: " + urls.length);
-        /*String[] urls = new String[]{
-            "https://docs.python.org/3/tutorial/datastructures.html",
-            "http://thomas-cokelaer.info/tutorials/python/data_structures.html",
-            "https://www.datacamp.com/community/tutorials/data-structures-python",
-            "http://interactivepython.org/runestone/static/pythonds/index.html",
-            "https://pt.coursera.org/learn/python-data"
-        };*/
+    public String[] getTerms(String[] urls, int maxTerms) {
+//        System.out.println("num urls: " + urls.length
 
         int N = 0; // total number of terms
         Map tfSingle = new HashMap<String, Float>();
@@ -74,12 +67,11 @@ public class TermFrequency extends QueryExpansion {
         Object[] entries = frequency.entrySet().toArray(); // turns the hashmap into an key/value array
         sort(entries, 0, entries.length-1); // sort downward by value
 
-        int k = 100;
-        if (k > entries.length) k = entries.length;
-        String[] terms = new String[k];
+        if (maxTerms > entries.length) maxTerms = entries.length;
+        String[] terms = new String[maxTerms];
         // gets the k-more-frequent keys
 
-        for (int i = 0; i < k; i++) {
+        for (int i = 0; i < maxTerms; i++) {
             Map.Entry<String, Float> entry = (Map.Entry<String, Float>)entries[i];
 //            System.out.println(String.format("%s: %f", entry.getKey(), entry.getValue()));
             terms[i] = entry.getKey();
@@ -136,6 +128,7 @@ public class TermFrequency extends QueryExpansion {
         return list.toArray(new String[0]);
     }
 
+    // quicksort for map entries
     private static void sort(Object[] arr, int low, int high) {
         if (low < high) {
             int pi = partition(arr, low, high); // pi is partitioning index, arr[pi] is now at right place

@@ -1,0 +1,58 @@
+
+Numero de termos: 20
+Termos:
+	cardapio Freq: 1
+	contato Freq: 1
+	cardapio Freq: 2
+	contato Freq: 2
+
+Numero de termos: 22
+Termos:
+	sushi Freq: 1
+
+Numero de termos: 37
+Termos:
+
+
+GenreWeight = 0.7	GenreSimilarity = 0.31622776601683794
+ContentWeight = 0.3	ContentSimilarity = 0.21320071635561041
+GenreAndContentWeight = 0.8	GenreAndContentCombination = 0.2853196511184697
+UrlWeight = 0.2	UrlSimilarity = 0.0
+urlText = http://www.theodorasushi.com.br/home.php11 3034-1210
+    
+    	Home
+        Sobre nós
+        Ambiente
+        Eventos
+        Cardápio
+        Promoções
+        Contato
+    
+		
+        
+        
+        
+    
+    
+    
+
+
+	
+    	Home
+        |
+        Sobre nós
+        |
+        Ambiente
+        |
+        Eventos
+        |
+        Cardápio
+        |
+        Reservas
+        |
+        Promoções
+        |
+        Contato
+    
+    Rua Diogo Moreira, 138 - Pinheiros - SP - 05423-010
+    Copyright © 2018 Theodora Sushi. All Rights Reserved. Developed by DAMPA

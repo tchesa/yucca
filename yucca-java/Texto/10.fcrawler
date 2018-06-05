@@ -186,3 +186,19 @@ Home/Voltar
         
                     
          Copyright © 2017 Taisho. Todos os Direitos Reservados. Design by Mind Digital
+Numero de termos: 20
+Termos:
+
+Numero de termos: 22
+Termos:
+
+Numero de termos: 37
+Termos:
+	sushi Freq: 1
+
+
+GenreWeight = 0.7	GenreSimilarity = 0.0
+ContentWeight = 0.3	ContentSimilarity = 0.0
+GenreAndContentWeight = 0.8	GenreAndContentCombination = 0.0
+UrlWeight = 0.2	UrlSimilarity = 0.1643989873053573
+urlText = https://www.tadasushi.com.br/sushi-e-sashimi

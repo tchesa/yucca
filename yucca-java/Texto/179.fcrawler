@@ -1,0 +1,81 @@
+
+Numero de termos: 20
+Termos:
+	cardapio Freq: 1
+	contato Freq: 1
+	reserva Freq: 1
+	cardapio Freq: 2
+	contato Freq: 2
+
+Numero de termos: 22
+Termos:
+	sushi Freq: 1
+	sushi Freq: 2
+
+Numero de termos: 37
+Termos:
+
+
+GenreWeight = 0.7	GenreSimilarity = 0.37267799624996495
+ContentWeight = 0.3	ContentSimilarity = 0.21320071635561041
+GenreAndContentWeight = 0.8	GenreAndContentCombination = 0.32483481228165856
+UrlWeight = 0.2	UrlSimilarity = 0.0
+urlText = http://www.theodorasushi.com.br/promo.php11 3034-1210
+    
+    	Home
+        Sobre nós
+        Ambiente
+        Eventos
+        Cardápio
+        Promoções
+        Contato
+    
+		
+        	Promoção do mês
+            
+                
+                Estabelecimento: Theodora Sushi
+                Oferta: Desconto de 15% no jantar.
+                Regulamento: Kuppon válido de segunda a sábado, das 19h às 23h, somente para consumo no local. Kuppon não cumulativo. O desconto de 15% é válido sobre o consumo total. Válido por 7 dias. Necessário fazer a reserva através do site para utilização do Kuppon. Atenção será aceito somente Kuppon impresso.
+                
+                    
+                        Nome completo
+                        
+                    
+                    
+                        Data de Nascimento
+                        
+                    
+                    
+                        E-mail
+                        
+                    
+                    
+                
+            
+        
+        
+    
+    
+    
+
+
+	
+    	Home
+        |
+        Sobre nós
+        |
+        Ambiente
+        |
+        Eventos
+        |
+        Cardápio
+        |
+        Reservas
+        |
+        Promoções
+        |
+        Contato
+    
+    Rua Diogo Moreira, 138 - Pinheiros - SP - 05423-010
+    Copyright © 2018 Theodora Sushi. All Rights Reserved. Developed by DAMPA

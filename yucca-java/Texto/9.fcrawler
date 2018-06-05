@@ -355,3 +355,24 @@ Banco de OportunidadesJovem AprendizEventos
 				
 					
 					© Copyright Senac RJ 2018 Todos os direitos reservados
+Numero de termos: 20
+Termos:
+	culinaria Freq: 1
+	japonesa Freq: 1
+	culinaria Freq: 2
+	japonesa Freq: 2
+
+Numero de termos: 22
+Termos:
+	sushi Freq: 1
+	sushi Freq: 2
+
+Numero de termos: 37
+Termos:
+
+
+GenreWeight = 0.7	GenreSimilarity = 0.31622776601683794
+ContentWeight = 0.3	ContentSimilarity = 0.21320071635561041
+GenreAndContentWeight = 0.8	GenreAndContentCombination = 0.2853196511184697
+UrlWeight = 0.2	UrlSimilarity = 0.0
+urlText = https://pt-br.facebook.com/aredesushi/videos/1191686760934023/Pular paraSeções desta PáginaAjuda de AcessibilidadePressione alt + / para abrir este menuFacebookEmail ou telefoneSenhaEsqueceu a conta?Cadastre-seVer mais da Página A REDE SUSHI - Curso de Culinária Japonesa no FacebookEntrarouCriar nova contaVer mais da Página A REDE SUSHI - Curso de Culinária Japonesa no FacebookEntrarEsqueceu a conta?ouCriar nova contaAgora não

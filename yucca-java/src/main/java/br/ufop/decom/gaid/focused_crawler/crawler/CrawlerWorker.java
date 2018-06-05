@@ -1,9 +1,5 @@
 package br.ufop.decom.gaid.focused_crawler.crawler;
 
-import java.io.BufferedReader;
-import java.io.FileInputStream;
-import java.io.InputStream;
-import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
@@ -20,7 +16,7 @@ import edu.uci.ics.crawler4j.url.WebURL;
 
 public class CrawlerWorker extends WebCrawler {
 
-    private Loader loader = Loader.getInstace();
+    private Loader loader = Loader.getInstance();
 
     private SimilarityMetric similarityMetric;
 
@@ -40,9 +36,7 @@ public class CrawlerWorker extends WebCrawler {
             urlTerms.addAll(genreTerms);
             urlTerms.addAll(contentTerms);
         }
-
-        this.similarityMetric = new CosineSimilarity(genreTerms, contentTerms, urlTerms, 0.7, 0.3, 0.8, 0.2,
-                CrawlerController.threshold);
+        this.similarityMetric = new CosineSimilarity(genreTerms, contentTerms, urlTerms, 0.7, 0.3, 0.8, 0.2, CrawlerController.threshold);
     }
 
     @Override
@@ -51,7 +45,6 @@ public class CrawlerWorker extends WebCrawler {
         if (CrawlerController.FILTERS.matcher(href).matches()) {
             return false;
         }
-
         return true;
     }
 

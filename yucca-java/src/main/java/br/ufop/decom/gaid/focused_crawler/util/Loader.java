@@ -25,15 +25,15 @@ public class Loader {
     private boolean initialized;
 
     private String workingDirectory;
-    private String genreTermsFile;
-    private String contentTermsFile;
+    private String genreTermsFile, genreExpansionTermsFile;
+    private String contentTermsFile, contentExpansionTermsFile;
     private String seedsFile;
 
     private Loader() {
         this.initialized = false;
     }
 
-    public static Loader getInstace() {
+    public static Loader getInstance() {
         synchronized (classLock) {
             if (instance == null) {
                 instance = new Loader();
@@ -48,12 +48,13 @@ public class Loader {
             Properties prop = new Properties();
             try {
                 prop.load(new FileInputStream(file));
-
                 this.workingDirectory = prop.getProperty("working_directory");
                 this.genreTermsFile = prop.getProperty("genre_terms_file");
                 this.contentTermsFile = prop.getProperty("content_terms_file");
+                this.contentTermsFile = prop.getProperty("content_terms_file");
+                this.genreExpansionTermsFile = prop.getProperty("genre_expansion_terms_file");
+                this.contentExpansionTermsFile = prop.getProperty("content_expansion_terms_file");
                 this.seedsFile = prop.getProperty("seeds_file");
-
                 this.initialized = true;
             } catch (IOException e) {
                 logger.error(e.getMessage());
@@ -68,13 +69,17 @@ public class Loader {
 
             try {
                 BufferedReader br = new BufferedReader(new FileReader(new File(workingDirectory + genreTermsFile)));
-
-                while (br.ready()) {
-                    genreTerms.add(br.readLine());
-                }
-
+                while (br.ready()) genreTerms.add(br.readLine());
                 br.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
 
+            // query expansion
+            try {
+                BufferedReader br = new BufferedReader(new FileReader(new File(workingDirectory + genreExpansionTermsFile)));
+                while (br.ready()) genreTerms.add(br.readLine());
+                br.close();
             } catch (IOException e) {
                 e.printStackTrace();
             }
@@ -89,13 +94,17 @@ public class Loader {
 
             try {
                 BufferedReader br = new BufferedReader(new FileReader(new File(workingDirectory + contentTermsFile)));
-
-                while (br.ready()) {
-                    contentTerms.add(br.readLine());
-                }
-
+                while (br.ready()) contentTerms.add(br.readLine());
                 br.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
 
+            // query expansion
+            try {
+                BufferedReader br = new BufferedReader(new FileReader(new File(workingDirectory + contentExpansionTermsFile)));
+                while (br.ready()) contentTerms.add(br.readLine());
+                br.close();
             } catch (IOException e) {
                 e.printStackTrace();
             }

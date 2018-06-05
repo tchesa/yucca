@@ -12,7 +12,7 @@ public class LoaderTest {
 
 	@Test
 	public void loaderTest() {
-		Loader loader = Loader.getInstace();
+		Loader loader = Loader.getInstance();
 		loader.setConfigFile("test.properties");
 		
 		loader.init();

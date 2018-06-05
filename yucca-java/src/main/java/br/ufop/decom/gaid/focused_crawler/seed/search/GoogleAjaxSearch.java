@@ -38,19 +38,32 @@ public class GoogleAjaxSearch implements Search {
 
 	@Override
 	public List<JSONObject> search(int numSeeds) {
-		List<JSONObject> result = new ArrayList<>();
-
 		String query = queryBuilder.getQuery(Seed.UNION_FIRST);
-		System.out.println(query);
-		int start = 0;
+		return querySearch(numSeeds, query);
+	}
 
+	@Override
+	public List<JSONObject> searchByGenre(int numSeeds) {
+		String query = queryBuilder.getQuery(Seed.JUST_GENRE_OR);
+		return querySearch(numSeeds, query);
+	}
+
+	@Override
+	public List<JSONObject> searchByContent(int numSeeds) {
+		String query = queryBuilder.getQuery(Seed.JUST_CONTENT_OR);
+		return querySearch(numSeeds, query);
+	}
+
+	private List<JSONObject> querySearch(int numSeeds, String query) {
+		List<JSONObject> result = new ArrayList<>();
+		int start = 0;
 		do {
 			String url = SEARCH_URL + query.replaceAll(" ", "+") + FILE_TYPE + "html" + START + start;
 			System.out.println(url);
 			Connection conn = Jsoup.connect(url).userAgent("Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)").timeout(5000);
 			try {
 				Document doc = conn.get();
-				//System.err.println(doc.toString());
+				System.out.println(doc.toString());
 				result.addAll(formatter(doc));
 			} catch (IOException e) {
 				logger.warn("Could not search for seed pages.");
@@ -59,10 +72,9 @@ public class GoogleAjaxSearch implements Search {
 				logger.warn("Could not search for seed pages.");
 				logger.error(e.getMessage());
 			}
-
 			start += 10;
+			System.out.println("collected: " + result.size());
 		} while (result.size() < numSeeds);
-
 		return result;
 	}
 

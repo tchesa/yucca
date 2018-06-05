@@ -19,11 +19,24 @@ public class SeedBuilder {
 		this.numSeeds = numSeeds;
 	}
 	
-	public List<WebURL> build() {	
-		List<WebURL> seeds = new ArrayList<>();
-		
+	public List<WebURL> build() {
 		List<JSONObject> result = this.search.search(this.numSeeds);
-		
+		return parseResult(result);
+	}
+
+	public List<WebURL> buildGenreSeeds() {
+		List<JSONObject> result = this.search.searchByGenre(this.numSeeds);
+		return parseResult(result);
+	}
+
+	public List<WebURL> buildContentSeeds() {
+		List<JSONObject> result = this.search.searchByContent(this.numSeeds);
+		return parseResult(result);
+	}
+
+	private List<WebURL> parseResult (List<JSONObject> result) {
+		List<WebURL> seeds = new ArrayList<>();
+
 		for(JSONObject entry : result) {
 			WebURL seed = new WebURL();
 			seed.setURL(StringEscapeUtils.escapeHtml4((String) entry.get("url")));
@@ -31,7 +44,7 @@ public class SeedBuilder {
 			seed.setAnchor(StringEscapeUtils.escapeHtml4((String) entry.get("anchor")));
 			seeds.add(seed);
 		}
-		
+
 		return seeds;
 	}
 

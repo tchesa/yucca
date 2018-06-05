@@ -1,15 +1,18 @@
 package br.ufop.decom.gaid.focused_crawler.crawler;
 
 import java.io.*;
+import java.nio.charset.Charset;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
-import java.util.LinkedList;
+import java.util.Arrays;
 import java.util.List;
+import java.util.Properties;
 import java.util.regex.Pattern;
 
 import br.ufop.decom.gaid.queryExpansion.QueryExpansion;
 import br.ufop.decom.gaid.queryExpansion.TermFrequency;
-import javafx.beans.binding.ListBinding;
-import javafx.collections.ObservableList;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -41,7 +44,7 @@ public class CrawlerController {
     private static CrawlerController instance;
     public static double threshold;
 
-    private Loader loader = Loader.getInstace();
+    private Loader loader = Loader.getInstance();
 
     private PageFetcher pageFetcher;
     private RobotstxtConfig robotstxtConfig;
@@ -107,7 +110,7 @@ public class CrawlerController {
         config.setPolitenessDelay(1000);
 
 		/*
-		 * Youe can set the maximum crawl depth her. The default value is -1 for
+		 * You can set the maximum crawl depth her. The default value is -1 for
 		 * unlimited depth
 		 */
         config.setMaxDepthOfCrawling(-1);
@@ -134,7 +137,6 @@ public class CrawlerController {
                 int qtdMax = Integer.parseInt(linhaDoArquivo);
                 config.setMaxPagesToFetch(qtdMax);
             }
-
         } catch (IOException e) {
             e.printStackTrace();
         } finally {
@@ -158,49 +160,48 @@ public class CrawlerController {
         robotstxtServer = new RobotstxtServer(robotstxtConfig, pageFetcher);
         controller = new CrawlController(config, pageFetcher, robotstxtServer);
 
-        List<WebURL> seeds = null;
+        /* query Expansion v2 */
         try {
-            InputStream inputStream = new FileInputStream("pagSementes.collect");
-            InputStreamReader inputStreamReader = new InputStreamReader(inputStream);
-            bufferedReader = new BufferedReader(inputStreamReader);
+            Properties prop = new Properties();
+            prop.load(new FileInputStream("queryExpansion.properties"));
 
-            String linhaDoArquivo = bufferedReader.readLine();
-            int informarPagSemente = Integer.parseInt(linhaDoArquivo);
-            System.out.print("Informar pag semente: ");
-            System.out.println(informarPagSemente);
+            boolean useQueryExpansion = Boolean.parseBoolean(prop.getProperty("use"));
+            resetExpansionFiles();
 
-            switch (informarPagSemente) {       //as paginas sementes serao geradas automaticamente
-                case 0:
-                    linhaDoArquivo = bufferedReader.readLine();
-                    int numSeeds = Integer.parseInt(linhaDoArquivo);
-                    System.out.print("Num seeds: ");
-                    System.out.println(numSeeds);
-                    SeedBuilder builder = new SeedBuilder(new GoogleAjaxSearch(), numSeeds);
-                    seeds = builder.build();
-                    for (WebURL seed : seeds) {
-                        controller.addSeed(seed.getURL());
-                    }
-                    break;
-                case 1:
-                    seeds = new ArrayList<>();
-                    linhaDoArquivo = bufferedReader.readLine();
-                    while (linhaDoArquivo != null) {
-                        WebURL url = new WebURL();
-                        url.setURL(linhaDoArquivo);
-                        seeds.add(url);
-                        linhaDoArquivo = bufferedReader.readLine();
-                    }
-                    for (WebURL seed : seeds) {
-                        System.out.println("num seeds: " + seeds.size());
-                        controller.addSeed(seed.getURL());
-                    }
-                    break;
+            if (useQueryExpansion) {
+                String method = prop.getProperty("method"); // método de expansão de termos
+                int numSeeds = Integer.parseInt(prop.getProperty("numSeeds")); // numero de páginas geradas
+                int k = Integer.parseInt(prop.getProperty("k")); // top termos mais frequentes
+                QueryExpansion expansion;
+
+                /*switch (method) {
+                    case "TermFrequency": expansion = new TermFrequency(); break;
+                    case "SimilarityMatrix": expansion = new ...
+                    default: ...
+                }*/
+                expansion = new TermFrequency();
+
+                System.out.println("Query expansion started");
+
+                SeedBuilder builder = new SeedBuilder(new GoogleAjaxSearch(), numSeeds);
+                List<WebURL> seeds = builder.buildGenreSeeds(); // busca por páginas usando apenas os termos de genero
+                String[] genreTerms = expansion.getTerms(seeds, k); // recupera os termos mais frequentes
+//                    System.out.println("GENRE: {" + String.join(", ", genreTerms) + "}");
+                Path file = Paths.get("genre.expansion");
+                Files.write(file, Arrays.asList(genreTerms), Charset.forName("UTF-8")); // escreve os termos no arquivo
+
+                seeds = builder.buildContentSeeds(); // busca por páginas usando apenas os termos de conteudo
+                String[] contentTerms = expansion.getTerms(seeds, k); // recupera os termos mais frequentes
+//                    System.out.println("CONTENT: {" + String.join(", ", contentTerms) + "}");
+                file = Paths.get("content.expansion");
+                Files.write(file, Arrays.asList(contentTerms), Charset.forName("UTF-8")); // escreve os termos no arquivo
             }
-            bufferedReader.close();
-        } catch (IOException e) {
-            e.printStackTrace();
+        } catch (Throwable err) {
+            System.out.println(err);
         }
 
+
+        List<WebURL> seeds = getSeeds();
 
 		/*
 		 * Defines similarity threshold for focused crawling process.
@@ -263,21 +264,15 @@ public class CrawlerController {
         os.writeObject(threshold);
         os.close();
 
-        /* Expansão dos termos */
+        /* Expansão dos termos v1 */
 
-        System.out.println("Query Expansion started");
+        /*System.out.println("Query Expansion started");
 
         QueryExpansion expansion = new TermFrequency();
         String[] seedUrls = new String[seeds.size()];
-        for (int i = 0; i < seeds.size(); i++) {
-            seedUrls[i] = seeds.get(i).getURL();
-        }
-
-//        String[] expandedTerms = expansion.getTerms((WebURL[])seeds.toArray());
+        for (int i = 0; i < seeds.size(); i++) seedUrls[i] = seeds.get(i).getURL();
         String[] expandedTerms = expansion.getTerms(seedUrls);
-//        for (String term : expandedTerms) {
-            System.out.println("{" + String.join(", ", expandedTerms) + "}");
-//        }
+        System.out.println("{" + String.join(", ", expandedTerms) + "}");*/
     }
 
     public void run() {
@@ -293,4 +288,54 @@ public class CrawlerController {
         System.out.println("LOG: Crawl process finished.");
     }
 
+    private List<WebURL> getSeeds() {
+        List<WebURL> seeds = null;
+        try {
+            InputStream inputStream = new FileInputStream("pagSementes.collect");
+            InputStreamReader inputStreamReader = new InputStreamReader(inputStream);
+            BufferedReader bufferedReader = new BufferedReader(inputStreamReader);
+
+            String linhaDoArquivo = bufferedReader.readLine();
+            int informarPagSemente = Integer.parseInt(linhaDoArquivo);
+            System.out.print("Informar pag semente: ");
+            System.out.println(informarPagSemente);
+
+            if (informarPagSemente == 0) { // as paginas sementes serao geradas automaticamente
+                linhaDoArquivo = bufferedReader.readLine();
+                int numSeeds = Integer.parseInt(linhaDoArquivo);
+                System.out.print("Num seeds: ");
+                System.out.println(numSeeds);
+                SeedBuilder builder = new SeedBuilder(new GoogleAjaxSearch(), numSeeds);
+                seeds = builder.build();
+                for (WebURL seed : seeds) {
+                    controller.addSeed(seed.getURL());
+                }
+            } else if (informarPagSemente == 1) {
+                seeds = new ArrayList<>();
+                linhaDoArquivo = bufferedReader.readLine();
+                while (linhaDoArquivo != null) {
+                    WebURL url = new WebURL();
+                    url.setURL(linhaDoArquivo);
+                    seeds.add(url);
+                    linhaDoArquivo = bufferedReader.readLine();
+                }
+                for (WebURL seed : seeds) {
+                    System.out.println("num seeds: " + seeds.size());
+                    controller.addSeed(seed.getURL());
+                }
+            }
+            bufferedReader.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return seeds;
+    }
+
+    private void resetExpansionFiles() throws java.io.IOException {
+        // cria arquivos vazios
+        Path file = Paths.get("genre.expansion");
+        Files.write(file, Arrays.asList(new String[0]), Charset.forName("UTF-8"));
+        file = Paths.get("content.expansion");
+        Files.write(file, Arrays.asList(new String[0]), Charset.forName("UTF-8"));
+    }
 }

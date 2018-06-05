@@ -10,7 +10,7 @@ import br.ufop.decom.gaid.focused_crawler.util.Loader;
 
 public class QueryBuilder {
 
-	private Loader loader = Loader.getInstace();
+	private Loader loader = Loader.getInstance();
 	
 	private List<String> genreTerms;
 	private List<String> contentTerms;
@@ -89,7 +89,7 @@ public class QueryBuilder {
         union.addAll(this.genreTerms);
         union.addAll(this.contentTerms);
         
-        query = StringUtils.join(union, " OR ");        
+        query = StringUtils.join(union, " OR ");
         
         return query;
 	}
