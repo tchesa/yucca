@@ -1068,3 +1068,35 @@ e-commerce local do Rio Grande do Sul!
                 © 2018 TchêOfertas - BrasIT Serviços LTDA.
                 Todos os direitos reservados. CNPJ 12.375.361/0001-00
                 Rua Coronel Paulino Teixeira, 35 - Rio Branco - 90420-160 - Porto Alegre
+Numero de termos: 12
+Termos:
+
+Numero de termos: 16
+Termos:
+
+Numero de termos: 28
+Termos:
+	sushi Freq: 1
+
+
+GenreWeight = 0.7	GenreSimilarity = 0.0
+ContentWeight = 0.3	ContentSimilarity = 0.0
+GenreAndContentWeight = 0.8	GenreAndContentCombination = 0.0
+UrlWeight = 0.2	UrlSimilarity = 0.1889822365046136
+urlText = https://www.tadasushi.com.br/sushi-e-sashimi
+Numero de termos: 21
+Termos:
+
+Numero de termos: 24
+Termos:
+
+Numero de termos: 45
+Termos:
+	sushi Freq: 1
+
+
+GenreWeight = 0.7	GenreSimilarity = 0.0
+ContentWeight = 0.3	ContentSimilarity = 0.0
+GenreAndContentWeight = 0.8	GenreAndContentCombination = 0.0
+UrlWeight = 0.2	UrlSimilarity = 0.14907119849998599
+urlText = https://www.tadasushi.com.br/sushi-e-sashimi

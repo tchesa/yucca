@@ -77,3 +77,4 @@ hs_err_pid*
 # focused crawler #
 crawledPages/
 relevantPages/
+Texto/*

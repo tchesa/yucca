@@ -91,3 +91,61 @@ urlText = http://www.theodorasushi.com.br/eventos.php11 3034-1210
     
     Rua Diogo Moreira, 138 - Pinheiros - SP - 05423-010
     Copyright © 2018 Theodora Sushi. All Rights Reserved. Developed by DAMPA
+Numero de termos: 21
+Termos:
+	cardapio Freq: 1
+	contato Freq: 1
+	cardapio Freq: 2
+	cardapio Freq: 3
+	contato Freq: 2
+
+Numero de termos: 24
+Termos:
+	sushi Freq: 1
+
+Numero de termos: 45
+Termos:
+
+
+GenreWeight = 0.7	GenreSimilarity = 0.3026137663344012
+ContentWeight = 0.3	ContentSimilarity = 0.20412414523193154
+GenreAndContentWeight = 0.8	GenreAndContentCombination = 0.27306688000366025
+UrlWeight = 0.2	UrlSimilarity = 0.0
+urlText = http://www.sushijapinheiros.com.br/cardapio.php11 3034-1210
+    
+    	Home
+        Sobre nós
+        Ambiente
+        Cardápio
+        
+        Contato
+    
+		
+        	Cardápio
+            
+        
+        
+    
+    
+    
+
+
+	
+    	Home
+        |
+        Sobre nós
+        |
+        Ambiente
+        |
+        Eventos
+        |
+        Cardápio
+        |
+        Reservas
+        |
+        Promoções
+        |
+        Contato
+    
+    Rua Diogo Moreira, 138 - Pinheiros - SP - 05423-010
+    Copyright © 2018 Theodora Sushi. All Rights Reserved. Developed by DAMPA

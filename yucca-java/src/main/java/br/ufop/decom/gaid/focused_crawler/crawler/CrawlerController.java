@@ -186,13 +186,13 @@ public class CrawlerController {
                 SeedBuilder builder = new SeedBuilder(new GoogleAjaxSearch(), numSeeds);
                 List<WebURL> seeds = builder.buildGenreSeeds(); // busca por páginas usando apenas os termos de genero
                 String[] genreTerms = expansion.getTerms(seeds, k); // recupera os termos mais frequentes
-//                    System.out.println("GENRE: {" + String.join(", ", genreTerms) + "}");
+//                System.out.println("GENRE: {" + String.join(", ", genreTerms) + "}");
                 Path file = Paths.get("genre.expansion");
                 Files.write(file, Arrays.asList(genreTerms), Charset.forName("UTF-8")); // escreve os termos no arquivo
 
                 seeds = builder.buildContentSeeds(); // busca por páginas usando apenas os termos de conteudo
                 String[] contentTerms = expansion.getTerms(seeds, k); // recupera os termos mais frequentes
-//                    System.out.println("CONTENT: {" + String.join(", ", contentTerms) + "}");
+//                System.out.println("CONTENT: {" + String.join(", ", contentTerms) + "}");
                 file = Paths.get("content.expansion");
                 Files.write(file, Arrays.asList(contentTerms), Charset.forName("UTF-8")); // escreve os termos no arquivo
             }

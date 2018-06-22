@@ -59,21 +59,20 @@ public class GoogleAjaxSearch implements Search {
 		int start = 0;
 		do {
 			String url = SEARCH_URL + query.replaceAll(" ", "+") + FILE_TYPE + "html" + START + start;
-			System.out.println(url);
+//			System.out.println(url);
 			Connection conn = Jsoup.connect(url).userAgent("Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)").timeout(5000);
 			try {
 				Document doc = conn.get();
-				System.out.println(doc.toString());
+//				System.out.println(doc.toString());
 				result.addAll(formatter(doc));
+				start += 10;
 			} catch (IOException e) {
-				logger.warn("Could not search for seed pages.");
-				logger.error(e.getMessage());
+				System.err.println("Could not search for seed pages.");
+				System.err.println(e);
 			} catch (ParseException e) {
-				logger.warn("Could not search for seed pages.");
-				logger.error(e.getMessage());
+				System.err.println("Could not search for seed pages.");
+				System.err.println(e);
 			}
-			start += 10;
-			System.out.println("collected: " + result.size());
 		} while (result.size() < numSeeds);
 		return result;
 	}
