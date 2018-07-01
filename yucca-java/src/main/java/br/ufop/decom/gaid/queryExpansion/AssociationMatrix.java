@@ -37,6 +37,11 @@ public class AssociationMatrix extends QueryExpansion {
         }
     }
 
+    @Override
+    public String[] getTerms(String[] urls, int maxTerms) {
+        return new String[0];
+    }
+
     public void createIndex(int numFiles) throws IOException{
         Indexer indexer = new Indexer(indexDir);
 
@@ -221,14 +226,11 @@ public class AssociationMatrix extends QueryExpansion {
         for (int i = 1; i <= numExpTerms && list.size() > 0; i++) {
             if(list.get(i).getTerm2().length() <= 2 || StringUtil.isNumeric(list.get(i).getTerm2()) || list.get(i).getTerm2().matches(".*\\d+.*") || list.get(i).getTerm1().equalsIgnoreCase(list.get(i).getTerm2())){
                 numExpTerms++;
-            }
-            else{
+            } else {
                 result.add(list.get(i).getTerm2());
                 //System.out.println(list.get(i).getTerm2());
             }
-
         }
-
         return result;
     }
 

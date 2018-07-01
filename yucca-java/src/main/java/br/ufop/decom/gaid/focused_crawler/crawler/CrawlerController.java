@@ -230,16 +230,16 @@ public class CrawlerController {
             System.out.println(contentWeight);
 
             switch (heuLimSim) {
-                case 0:         //K-Means
+                case 0:         // K-Means
                     threshold = new KMeansClustering(new CosineSimilarity(genreTerms, contentTerms, genreWeight, contentWeight), seeds).getThreshold();
                     break;
-                case 1:         //BIRCH
+                case 1:         // BIRCH
                     threshold = new BIRCHClustering(new CosineSimilarity(genreTerms, contentTerms, genreWeight, contentWeight), seeds).getThreshold();
                     break;
-                case 2:         //Coeficiente de silhueta
+                case 2:         // Coeficiente de silhueta
                     threshold = new SilhouetteCoefficient(new CosineSimilarity(genreTerms, contentTerms, genreWeight, contentWeight), seeds).getThreshold();
                     break;
-                case 3:         //Media aritmetica
+                case 3:         // Media aritmetica
                     threshold = new ArithmeticMean(new CosineSimilarity(genreTerms, contentTerms, genreWeight, contentWeight), seeds).getThreshold();
                     break;
             }
@@ -263,16 +263,6 @@ public class CrawlerController {
         os = new ObjectOutputStream(new FileOutputStream("similarityObject.fcrawler"));
         os.writeObject(threshold);
         os.close();
-
-        /* Expansão dos termos v1 */
-
-        /*System.out.println("Query Expansion started");
-
-        QueryExpansion expansion = new TermFrequency();
-        String[] seedUrls = new String[seeds.size()];
-        for (int i = 0; i < seeds.size(); i++) seedUrls[i] = seeds.get(i).getURL();
-        String[] expandedTerms = expansion.getTerms(seedUrls);
-        System.out.println("{" + String.join(", ", expandedTerms) + "}");*/
     }
 
     public void run() {
@@ -319,8 +309,8 @@ public class CrawlerController {
                     seeds.add(url);
                     linhaDoArquivo = bufferedReader.readLine();
                 }
+                System.out.println("num seeds: " + seeds.size());
                 for (WebURL seed : seeds) {
-                    System.out.println("num seeds: " + seeds.size());
                     controller.addSeed(seed.getURL());
                 }
             }

@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/focused-crawler-seq.iml" filepath="$PROJECT_DIR$/focused-crawler-seq.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yucca.iml" filepath="$PROJECT_DIR$/yucca.iml" />
     </modules>
   </component>
 </project>

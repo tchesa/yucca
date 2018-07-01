@@ -51,6 +51,7 @@
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/queryExpansion/TermFrequency.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/robotstxt/RobotstxtConfig.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/fetcher/PageFetcher.java
+/home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/queryExpansion/AssociationMatrix.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/robotstxt/RobotstxtParser.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/focused_crawler/threshold/preprocessing/Preprocess.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/focused_crawler/seed/SeedBuilder.java
@@ -62,6 +63,7 @@
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/focused_crawler/integration/Teste.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/crawler/Configurable.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/queryExpansion/QueryExpansion.java
+/home/cesar/git/ufop/yucca/yucca-java/src/main/java/br/ufop/decom/gaid/queryExpansion/Indexer.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/frontier/WorkQueues.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/crawler/exceptions/ContentFetchException.java
 /home/cesar/git/ufop/yucca/yucca-java/src/main/java/edu/uci/ics/crawler4j/util/Util.java
