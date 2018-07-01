@@ -171,7 +171,8 @@ public class CrawlerController {
             if (useQueryExpansion) {
                 String method = prop.getProperty("method"); // método de expansão de termos
                 int numSeeds = Integer.parseInt(prop.getProperty("numSeeds")); // numero de páginas geradas
-                int k = Integer.parseInt(prop.getProperty("k")); // top termos mais frequentes
+                int contentK = Integer.parseInt(prop.getProperty("contentK")); // top termos mais frequentes de conteudo
+                int genreK = Integer.parseInt(prop.getProperty("genreK")); // top termos mais frequentes de genero
                 QueryExpansion expansion;
 
                 /*switch (method) {
@@ -179,19 +180,20 @@ public class CrawlerController {
                     case "SimilarityMatrix": expansion = new ...
                     default: ...
                 }*/
-                expansion = new TermFrequency();
 
                 System.out.println("Query expansion started");
 
+                expansion = new TermFrequency(loader.loadGenreTerms(), genreK);
                 SeedBuilder builder = new SeedBuilder(new GoogleAjaxSearch(), numSeeds);
                 List<WebURL> seeds = builder.buildGenreSeeds(); // busca por páginas usando apenas os termos de genero
-                String[] genreTerms = expansion.getTerms(seeds, k); // recupera os termos mais frequentes
+                String[] genreTerms = expansion.getTerms(seeds); // recupera os termos mais frequentes
 //                System.out.println("GENRE: {" + String.join(", ", genreTerms) + "}");
                 Path file = Paths.get("genre.expansion");
                 Files.write(file, Arrays.asList(genreTerms), Charset.forName("UTF-8")); // escreve os termos no arquivo
 
+                expansion = new TermFrequency(loader.loadContentTerms(), contentK);
                 seeds = builder.buildContentSeeds(); // busca por páginas usando apenas os termos de conteudo
-                String[] contentTerms = expansion.getTerms(seeds, k); // recupera os termos mais frequentes
+                String[] contentTerms = expansion.getTerms(seeds); // recupera os termos mais frequentes
 //                System.out.println("CONTENT: {" + String.join(", ", contentTerms) + "}");
                 file = Paths.get("content.expansion");
                 Files.write(file, Arrays.asList(contentTerms), Charset.forName("UTF-8")); // escreve os termos no arquivo

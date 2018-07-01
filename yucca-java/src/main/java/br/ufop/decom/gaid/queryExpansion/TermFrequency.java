@@ -1,21 +1,32 @@
 package br.ufop.decom.gaid.queryExpansion;
 
+import org.apache.commons.compress.utils.IOUtils;
+import org.apache.pdfbox.pdmodel.PDDocument;
+import org.apache.pdfbox.util.PDFTextStripper;
+import org.apache.tika.parser.pdf.PDFParser;
+
+import java.io.*;
+import java.nio.charset.Charset;
 import java.util.*;
-import java.io.IOException;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
-import java.io.PrintWriter;
+import java.net.URLConnection;
 
 public class TermFrequency extends QueryExpansion {
 
     private ContentExtractor extractor;
 
-    public TermFrequency () {
+    private List<String> stockTerms;
+    public int k;
+
+    public TermFrequency (List<String> stockTerms, int k) {
         extractor = new ContentExtractor();
+        this.stockTerms = stockTerms;
+        this.k = k;
     }
 
     @Override
-    public String[] getTerms(String[] urls, int maxTerms) {
+    public String[] getTerms(String[] urls) {
 //        System.out.println("num urls: " + urls.length
 
         int N = 0; // total number of terms
@@ -26,10 +37,13 @@ public class TermFrequency extends QueryExpansion {
 
         for (String url : urls) {
             try {
+//                System.out.println(url);
+//                System.in.read();
                 String dom = readStringFromURL(url); // get page info
 //                System.out.print(dom.length() + ": "); // page string length
 //                System.out.println(dom);
                 String[] words = cleanHtml(dom); // turns the page into an array of words
+//                System.in.read();
                 words = removeStopwords(words); // removes the stopwords from the list
 //                System.out.println(String.join(", ", words));
 //                System.out.println(url);
@@ -67,16 +81,30 @@ public class TermFrequency extends QueryExpansion {
         Object[] entries = frequency.entrySet().toArray(); // turns the hashmap into an key/value array
         sort(entries, 0, entries.length-1); // sort downward by value
 
-        if (maxTerms > entries.length) maxTerms = entries.length;
-        String[] terms = new String[maxTerms];
-        // gets the k-more-frequent keys
+        /*for (int i = 0; i < 20; i++) {
+            Map.Entry<String, Float> entry = (Map.Entry<String, Float>)entries[i];
+            System.out.println("key: " + entry.getKey() + ", value: " + entry.getValue());
+        }*/
 
-        for (int i = 0; i < maxTerms; i++) {
+//        if (k > entries.length) k = entries.length;
+//        String[] terms = new String[k];
+        List<String> terms = new ArrayList<String>();
+
+        // get the k-more-frequent keys
+        for (int i = 0; i < entries.length && terms.size() < k; i++) {
             Map.Entry<String, Float> entry = (Map.Entry<String, Float>)entries[i];
 //            System.out.println(String.format("%s: %f", entry.getKey(), entry.getValue()));
-            terms[i] = entry.getKey();
+            if (!stockTerms.contains(entry.getKey())) // o termo não está entre os termos definidos pelo usuario
+                terms.add(entry.getKey());
+//            else
+//                System.out.println("Term [" + entry.getKey() + "] already defined.");
+//            terms[i] = entry.getKey();
         }
-        return terms;
+//        System.out.println(terms.size());
+//        for (int i = 0; i < terms.toArray().length; i++) {
+//            System.out.println(terms.toArray(new String[terms.size()])[i]);
+//        }
+        return terms.toArray(new String[terms.size()]);
     }
 
     private static void AddTerm(String word, Map frequencies, Map positions, int position, int total) {
@@ -88,13 +116,44 @@ public class TermFrequency extends QueryExpansion {
 
     private static String readStringFromURL(String requestURL) throws IOException {
         try (Scanner scanner = new Scanner(new URL(requestURL).openStream(), StandardCharsets.UTF_8.toString())) {
-            scanner.useDelimiter("\\A");
-            return scanner.hasNext() ? scanner.next() : "";
+//            System.out.println(scanner.nextLine().trim());
+            String first = scanner.nextLine().trim();
+            if (first.contains("%PDF")) { // it is a pdf file
+                System.out.println("pdf file");
+                PDDocument doc = PDDocument.load(new URL(requestURL).openStream());
+                String dom = new PDFTextStripper().getText(doc);
+                doc.close();
+                return dom;
+            } else if (first.contains("<!DOCTYPE html")) {
+                System.out.println("html file");
+                Scanner scanner2 = new Scanner(new URL(requestURL).openStream(), StandardCharsets.UTF_8.toString());
+                scanner2.useDelimiter("\\A");
+                return scanner2.hasNext() ? scanner2.next() : "";
+            } else {
+                System.out.println("unknown file type");
+                return "";
+            }
         }
+        /*try {
+            URL url = new URL(requestURL);
+            URLConnection connection = url.openConnection();
+            InputStream input = connection.getInputStream();
+
+            StringBuilder textBuilder = new StringBuilder();
+            Reader reader = new BufferedReader(new InputStreamReader(input, Charset.forName(StandardCharsets.UTF_8.name())));
+            int c = 0;
+            while ((c = reader.read()) != -1) {
+                textBuilder.append((char) c);
+            }
+            return textBuilder.toString();
+        } catch (Exception e) {
+            return "";
+        }*/
     }
 
     private String[] cleanHtml(String dom) throws StackOverflowError {
         try {
+//            System.out.println("ORIGINAL: " + dom);
             // remove script/style/comment blocks and general tags
             // dom = new jregex.Pattern("<script(\n|.)*?>(\n|.)*?(</script>|$)|<style(\n|.)*?>(\n|.)*?(</style>|$)|<!--(\n|.)*?(-->|$)|<(.|\n)*?>|&.*?/g").replacer("").replace(dom);
             dom = extractor.extractFromDocument(dom);

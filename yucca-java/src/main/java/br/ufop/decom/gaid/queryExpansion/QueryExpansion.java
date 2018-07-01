@@ -5,11 +5,11 @@ import java.util.List;
 
 public abstract class QueryExpansion {
 
-    public String[] getTerms(List<WebURL> seeds, int maxTerms) {
+    public String[] getTerms(List<WebURL> seeds) {
         String[] seedUrls = new String[seeds.size()];
         for (int i = 0; i < seeds.size(); i++) seedUrls[i] = seeds.get(i).getURL();
-        return getTerms(seedUrls, maxTerms);
+        return getTerms(seedUrls);
     }
 
-    public abstract String[] getTerms(String[] urls, int maxTerms);
+    public abstract String[] getTerms(String[] urls);
 }

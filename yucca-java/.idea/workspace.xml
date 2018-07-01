@@ -2,755 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e394dbfe-17eb-4338-8707-ebb15abca54e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/10.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/10.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/100.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/100.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1006.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1006.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1007.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1007.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1008.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1008.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/101.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/101.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1016.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1016.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1018.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1018.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1019.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1019.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/102.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/102.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1020.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1020.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1021.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1021.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1022.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1022.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1023.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1023.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1024.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1024.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1025.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1025.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1026.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1026.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1027.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1027.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1028.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1028.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/103.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/103.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1034.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1034.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1035.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1035.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1036.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1036.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1037.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1037.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1038.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1038.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1039.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1039.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/104.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/104.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1040.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1040.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1041.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1041.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1042.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1042.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1043.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1043.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1044.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1044.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1045.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1045.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1047.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1047.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1048.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1048.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1049.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1049.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/105.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/105.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1050.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1050.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1051.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1051.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/1052.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/1052.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/106.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/106.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/107.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/107.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/108.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/108.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/109.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/109.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/11.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/11.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/110.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/110.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/112.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/112.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/114.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/114.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/116.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/116.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/119.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/119.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/12.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/12.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/120.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/120.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/121.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/121.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/124.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/124.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/125.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/125.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/126.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/126.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/129.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/129.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/13.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/13.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/133.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/133.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/134.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/134.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/135.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/135.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/137.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/137.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/138.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/138.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/14.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/14.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/141.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/141.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/142.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/142.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/143.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/143.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/144.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/144.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/145.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/145.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/146.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/146.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/147.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/147.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/148.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/148.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/149.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/149.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/15.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/15.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/150.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/150.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/151.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/151.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/154.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/154.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/155.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/155.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/156.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/156.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/157.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/157.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/158.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/158.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/159.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/159.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/16.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/16.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/160.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/160.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/161.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/161.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/162.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/162.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/163.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/163.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/164.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/164.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/165.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/165.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/166.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/166.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/168.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/168.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/169.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/169.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/17.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/17.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/170.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/170.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/171.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/171.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/172.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/172.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/173.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/173.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/174.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/174.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/175.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/175.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/176.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/176.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/177.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/177.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/178.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/178.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/180.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/180.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/182.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/182.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/185.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/185.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/186.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/186.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/188.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/188.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/19.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/19.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/190.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/190.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/193.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/193.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/194.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/194.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/195.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/195.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/196.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/196.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/197.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/197.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/2.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/2.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/20.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/20.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/202.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/202.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/203.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/203.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/204.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/204.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/205.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/205.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/208.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/208.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/209.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/209.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/21.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/21.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/210.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/210.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/211.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/211.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/212.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/212.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/213.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/213.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/214.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/214.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/215.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/215.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/217.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/217.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/218.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/218.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/219.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/219.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/222.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/222.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/225.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/225.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/228.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/228.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/229.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/229.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/23.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/23.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/230.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/230.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/231.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/231.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/232.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/232.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/233.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/233.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/234.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/234.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/235.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/235.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/236.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/236.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/237.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/237.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/238.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/238.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/239.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/239.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/24.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/24.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/240.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/240.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/241.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/241.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/242.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/242.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/243.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/243.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/244.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/244.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/245.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/245.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/246.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/246.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/247.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/247.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/248.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/248.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/249.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/249.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/25.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/25.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/250.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/250.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/251.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/251.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/252.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/252.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/253.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/253.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/254.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/254.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/255.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/255.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/256.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/256.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/257.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/257.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/258.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/258.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/259.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/259.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/26.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/26.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/260.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/260.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/261.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/261.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/262.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/262.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/263.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/263.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/264.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/264.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/265.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/265.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/266.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/266.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/267.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/267.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/268.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/268.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/270.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/270.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/271.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/271.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/272.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/272.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/273.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/273.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/274.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/274.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/277.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/277.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/28.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/28.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/281.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/281.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/282.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/282.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/286.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/286.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/29.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/29.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/291.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/291.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/299.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/299.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/302.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/302.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/303.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/303.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/304.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/304.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/305.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/305.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/307.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/307.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/308.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/308.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/309.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/309.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/31.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/31.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/310.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/310.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/311.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/311.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/312.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/312.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/313.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/313.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/314.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/314.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/315.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/315.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/316.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/316.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/317.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/317.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/318.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/318.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/319.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/319.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/32.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/32.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/322.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/322.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/323.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/323.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/324.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/324.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/326.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/326.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/327.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/327.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/328.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/328.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/329.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/329.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/33.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/33.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/330.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/330.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/331.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/331.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/332.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/332.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/333.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/333.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/334.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/334.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/335.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/335.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/336.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/336.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/337.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/337.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/338.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/338.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/339.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/339.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/34.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/34.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/340.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/340.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/342.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/342.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/343.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/343.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/344.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/344.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/345.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/345.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/347.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/347.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/348.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/348.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/349.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/349.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/35.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/35.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/350.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/350.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/351.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/351.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/354.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/354.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/355.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/355.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/356.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/356.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/357.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/357.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/358.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/358.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/359.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/359.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/360.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/360.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/361.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/361.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/364.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/364.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/366.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/366.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/367.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/367.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/370.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/370.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/371.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/371.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/372.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/372.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/373.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/373.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/374.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/374.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/375.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/375.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/376.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/376.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/377.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/377.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/380.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/380.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/381.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/381.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/382.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/382.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/383.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/383.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/385.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/385.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/388.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/388.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/39.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/39.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/393.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/393.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/395.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/395.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/396.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/396.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/397.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/397.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/398.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/398.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/399.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/399.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/403.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/403.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/405.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/405.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/41.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/41.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/412.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/412.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/416.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/416.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/42.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/42.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/422.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/422.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/423.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/423.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/428.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/428.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/429.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/429.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/43.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/43.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/431.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/431.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/432.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/432.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/434.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/434.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/435.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/435.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/437.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/437.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/438.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/438.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/439.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/439.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/44.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/44.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/440.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/440.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/441.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/441.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/442.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/442.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/444.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/444.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/445.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/445.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/446.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/446.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/447.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/447.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/448.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/448.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/449.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/449.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/45.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/45.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/450.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/450.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/451.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/451.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/452.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/452.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/453.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/453.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/454.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/454.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/455.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/455.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/457.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/457.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/459.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/459.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/460.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/460.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/463.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/463.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/465.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/465.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/466.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/466.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/467.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/467.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/468.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/468.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/469.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/469.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/472.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/472.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/474.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/474.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/475.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/475.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/476.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/476.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/477.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/477.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/478.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/478.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/480.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/480.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/481.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/481.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/485.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/485.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/486.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/486.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/487.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/487.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/488.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/488.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/49.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/49.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/491.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/491.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/492.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/492.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/493.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/493.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/495.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/495.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/496.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/496.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/497.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/497.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/499.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/499.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/5.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/5.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/501.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/501.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/508.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/508.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/509.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/509.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/51.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/51.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/511.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/511.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/512.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/512.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/513.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/513.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/514.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/514.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/527.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/527.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/53.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/53.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/530.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/530.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/532.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/532.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/535.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/535.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/536.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/536.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/537.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/537.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/538.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/538.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/539.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/539.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/54.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/54.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/541.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/541.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/544.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/544.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/546.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/546.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/547.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/547.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/548.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/548.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/55.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/55.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/555.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/555.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/56.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/56.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/561.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/561.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/563.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/563.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/564.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/564.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/566.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/566.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/567.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/567.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/568.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/568.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/569.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/569.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/57.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/57.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/570.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/570.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/571.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/571.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/572.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/572.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/573.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/573.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/574.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/574.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/575.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/575.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/577.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/577.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/578.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/578.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/579.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/579.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/58.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/58.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/580.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/580.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/581.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/581.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/582.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/582.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/583.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/583.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/584.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/584.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/585.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/585.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/586.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/586.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/587.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/587.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/588.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/588.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/589.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/589.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/59.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/59.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/590.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/590.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/591.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/591.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/592.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/592.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/593.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/593.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/596.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/596.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/597.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/597.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/598.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/598.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/599.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/599.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/6.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/6.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/600.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/600.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/604.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/604.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/606.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/606.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/608.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/608.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/609.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/609.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/61.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/61.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/610.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/610.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/611.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/611.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/613.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/613.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/615.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/615.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/616.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/616.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/617.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/617.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/618.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/618.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/619.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/619.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/620.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/620.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/621.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/621.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/622.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/622.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/623.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/623.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/624.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/624.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/625.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/625.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/626.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/626.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/627.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/627.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/628.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/628.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/630.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/630.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/631.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/631.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/632.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/632.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/633.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/633.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/634.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/634.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/635.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/635.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/636.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/636.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/637.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/637.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/638.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/638.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/639.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/639.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/64.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/64.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/640.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/640.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/641.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/641.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/643.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/643.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/644.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/644.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/645.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/645.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/646.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/646.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/647.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/647.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/648.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/648.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/649.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/649.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/65.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/65.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/650.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/650.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/651.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/651.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/652.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/652.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/653.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/653.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/654.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/654.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/655.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/655.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/656.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/656.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/657.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/657.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/658.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/658.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/659.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/659.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/66.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/66.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/660.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/660.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/661.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/661.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/662.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/662.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/663.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/663.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/664.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/664.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/665.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/665.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/666.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/666.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/67.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/67.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/677.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/677.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/678.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/678.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/679.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/679.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/680.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/680.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/681.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/681.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/682.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/682.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/683.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/683.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/684.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/684.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/685.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/685.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/686.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/686.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/687.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/687.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/689.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/689.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/690.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/690.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/692.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/692.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/694.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/694.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/696.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/696.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/697.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/697.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/698.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/698.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/699.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/699.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/70.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/70.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/700.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/700.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/701.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/701.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/702.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/702.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/703.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/703.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/704.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/704.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/705.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/705.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/707.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/707.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/708.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/708.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/709.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/709.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/71.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/71.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/710.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/710.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/711.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/711.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/712.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/712.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/713.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/713.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/714.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/714.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/715.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/715.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/716.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/716.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/717.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/717.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/718.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/718.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/719.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/719.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/720.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/720.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/721.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/721.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/722.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/722.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/723.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/723.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/724.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/724.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/725.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/725.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/726.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/726.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/727.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/727.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/73.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/73.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/734.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/734.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/735.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/735.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/736.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/736.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/738.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/738.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/739.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/739.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/74.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/74.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/740.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/740.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/742.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/742.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/743.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/743.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/744.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/744.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/745.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/745.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/746.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/746.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/747.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/747.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/748.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/748.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/749.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/749.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/75.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/75.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/750.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/750.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/751.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/751.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/752.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/752.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/753.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/753.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/754.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/754.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/755.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/755.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/756.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/756.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/757.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/757.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/758.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/758.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/759.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/759.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/76.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/76.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/760.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/760.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/761.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/761.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/762.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/762.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/763.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/763.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/764.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/764.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/765.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/765.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/766.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/766.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/767.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/767.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/768.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/768.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/769.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/769.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/77.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/77.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/770.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/770.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/771.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/771.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/772.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/772.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/773.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/773.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/774.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/774.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/775.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/775.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/776.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/776.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/777.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/777.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/778.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/778.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/779.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/779.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/78.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/78.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/780.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/780.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/781.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/781.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/782.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/782.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/783.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/783.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/784.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/784.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/785.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/785.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/786.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/786.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/787.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/787.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/788.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/788.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/789.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/789.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/79.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/79.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/790.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/790.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/791.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/791.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/792.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/792.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/793.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/793.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/794.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/794.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/795.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/795.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/796.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/796.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/797.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/797.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/798.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/798.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/799.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/799.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/8.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/8.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/80.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/80.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/800.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/800.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/801.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/801.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/802.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/802.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/803.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/803.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/804.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/804.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/805.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/805.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/806.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/806.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/807.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/807.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/808.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/808.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/809.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/809.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/81.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/81.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/810.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/810.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/811.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/811.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/812.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/812.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/813.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/813.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/814.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/814.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/815.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/815.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/816.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/816.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/817.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/817.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/818.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/818.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/819.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/819.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/82.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/82.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/820.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/820.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/821.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/821.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/822.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/822.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/824.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/824.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/825.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/825.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/826.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/826.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/827.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/827.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/829.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/829.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/83.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/83.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/830.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/830.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/831.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/831.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/832.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/832.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/833.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/833.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/834.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/834.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/835.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/835.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/837.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/837.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/838.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/838.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/839.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/839.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/840.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/840.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/841.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/841.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/842.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/842.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/843.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/843.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/85.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/85.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/856.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/856.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/857.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/857.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/858.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/858.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/86.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/86.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/860.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/860.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/862.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/862.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/863.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/863.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/864.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/864.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/865.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/865.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/866.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/866.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/867.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/867.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/868.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/868.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/869.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/869.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/870.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/870.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/871.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/871.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/872.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/872.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/873.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/873.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/874.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/874.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/875.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/875.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/876.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/876.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/877.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/877.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/878.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/878.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/879.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/879.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/880.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/880.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/881.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/881.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/882.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/882.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/883.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/883.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/884.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/884.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/885.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/885.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/886.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/886.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/887.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/887.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/888.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/888.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/889.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/889.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/890.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/890.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/891.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/891.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/892.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/892.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/893.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/893.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/894.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/894.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/896.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/896.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/897.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/897.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/898.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/898.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/899.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/899.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/9.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/9.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/90.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/90.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/900.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/900.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/901.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/901.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/902.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/902.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/903.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/903.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/904.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/904.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/905.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/905.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/906.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/906.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/907.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/907.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/908.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/908.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/909.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/909.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/91.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/91.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/910.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/910.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/911.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/911.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/914.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/914.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/915.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/915.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/917.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/917.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/918.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/918.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/919.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/919.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/92.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/92.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/920.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/920.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/921.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/921.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/922.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/922.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/923.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/923.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/93.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/93.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/938.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/938.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/939.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/939.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/94.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/94.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/941.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/941.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/942.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/942.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/943.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/943.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/944.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/944.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/945.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/945.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/946.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/946.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/947.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/947.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/948.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/948.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/949.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/949.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/95.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/95.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/950.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/950.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/951.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/951.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/952.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/952.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/953.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/953.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/954.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/954.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/955.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/955.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/956.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/956.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/96.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/96.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/963.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/963.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/964.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/964.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/965.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/965.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/966.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/966.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/968.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/968.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/97.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/97.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/978.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/978.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/98.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/98.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/989.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/989.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/99.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/99.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/990.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/990.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texto/994.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/Texto/994.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content.collect" beforeDir="false" afterPath="$PROJECT_DIR$/content.collect" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content.expansion" beforeDir="false" afterPath="$PROJECT_DIR$/content.expansion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/genre.collect" beforeDir="false" afterPath="$PROJECT_DIR$/genre.collect" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genre.expansion" beforeDir="false" afterPath="$PROJECT_DIR$/genre.expansion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagSementes.collect" beforeDir="false" afterPath="$PROJECT_DIR$/pagSementes.collect" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/processProperties/frontier/00000000.jdb" beforeDir="false" afterPath="$PROJECT_DIR$/processProperties/frontier/00000000.jdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/queryExpansion.properties" beforeDir="false" afterPath="$PROJECT_DIR$/queryExpansion.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/similarity.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/similarity.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/similarityObject.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/similarityObject.fcrawler" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/AssociationMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/AssociationMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/QueryExpansion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/QueryExpansion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/TermFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/TermFrequency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -765,8 +27,87 @@
       <file leaf-file-name="CrawlerController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1560">
-              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="-608">
+              <caret line="125" column="38" selection-start-line="125" selection-start-column="38" selection-end-line="125" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QueryExpansion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/QueryExpansion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TermFrequency.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/TermFrequency.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3203#3211#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PDFTextStripper.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/pdfbox/pdfbox/1.8.4/pdfbox-1.8.4-sources.jar!/org/apache/pdfbox/util/PDFTextStripper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="245" column="23" selection-start-line="245" selection-start-column="18" selection-end-line="245" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContentExtractor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/ContentExtractor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1890#1891#0" expanded="true" />
+                <element signature="e#1951#1952#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoaderTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/unit/LoaderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="45" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Loader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/util/Loader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="795">
+              <caret line="66" column="23" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
+              <folding>
+                <element signature="e#4033#4034#0" expanded="true" />
+                <element signature="e#4070#4071#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="queryExpansion.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/queryExpansion.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -782,11 +123,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>depen</find>
-      <find>LoggerFac</find>
-      <find>groupId</find>
-      <find>similaridad</find>
-      <find>content</find>
       <find>ge</find>
       <find>genre</find>
       <find>logger.info(&quot;</find>
@@ -812,6 +148,11 @@
       <find>System.</find>
       <find>system.ou</find>
       <find>seeds</find>
+      <find>genre.collect</find>
+      <find>PDFParser</find>
+      <find>public PDFParser</find>
+      <find>gette</find>
+      <find>println</find>
     </findStrings>
     <replaceStrings>
       <replace>System.out.println(&quot;LOG:</replace>
@@ -835,7 +176,6 @@
         <option value="$PROJECT_DIR$/src/main/java/queryExpansion/TermFrequency.java" />
         <option value="$PROJECT_DIR$/classpath.bat" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/ContentExtractor.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/seed/search/QueryBuilder.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/seed/search/Search.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/seed/SeedBuilder.java" />
@@ -844,18 +184,19 @@
         <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerWorker.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/util/Loader.java" />
         <option value="$PROJECT_DIR$/queryExpansion.properties.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/QueryExpansion.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/TermFrequency.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/seed/search/GoogleAjaxSearch.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/SimilarityMatrix.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/Indexer.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/PositionDocId.java" />
         <option value="$PROJECT_DIR$/content.collect" />
         <option value="$PROJECT_DIR$/genre.collect" />
-        <option value="$PROJECT_DIR$/queryExpansion.properties" />
         <option value="$PROJECT_DIR$/pagSementes.collect" />
-        <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/QueryExpansion.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/AssociationMatrix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java" />
+        <option value="$PROJECT_DIR$/queryExpansion.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/ContentExtractor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/TermFrequency.java" />
       </list>
     </option>
   </component>
@@ -883,10 +224,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="55" />
-    <option name="y" value="27" />
-    <option name="width" value="1900" />
-    <option name="height" value="1049" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="530" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -904,6 +244,41 @@
             <path>
               <item name="yucca" type="b2602c69:ProjectViewProjectNode" />
               <item name="yucca-java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yucca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yucca-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yucca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yucca-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yucca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yucca-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yucca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yucca-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gaid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yucca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yucca-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gaid" type="462c0819:PsiDirectoryNode" />
+              <item name="queryExpansion" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1107,21 +482,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32810867" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005208" side_tool="true" weight="0.6666667" />
-      <window_info anchor="right" id="Maven Projects" order="3" sideWeight="0.49844238" visible="true" weight="0.098958336" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50104165" side_tool="true" weight="0.33124346" />
+      <window_info anchor="right" id="Maven Projects" order="3" sideWeight="0.49844238" visible="true" weight="0.10625" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.37304077" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49947917" visible="true" weight="0.38662487" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49895832" visible="true" weight="0.36886102" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18229167" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3291536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -1130,12 +506,10 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32810867" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" x="0" y="0" width="430" height="857" id="Documentation" order="4" sideWeight="0.50155765" side_tool="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3291536" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -1147,59 +521,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/genre.collect">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/AssociationMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3930">
-          <caret line="262" column="5" lean-forward="true" selection-start-line="262" selection-start-column="5" selection-end-line="262" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#matrixJaccard#0;class#AssociationMatrix#0" />
-            <element signature="e#4417#4433#0" expanded="true" />
-            <element signature="method#get2termsWeightJaccard#0;class#AssociationMatrix#0" />
-            <element signature="method#matrixMenorDistancia#0;class#AssociationMatrix#0" />
-            <element signature="e#7228#7244#0" expanded="true" />
-            <element signature="method#get2termsWeightPositions#0;class#AssociationMatrix#0" />
-            <element signature="method#getTermPositionalPostings#0;class#AssociationMatrix#0" />
-            <element signature="class#TwoTermsWeight#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classpath.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="36" lean-forward="true" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1665">
-          <caret line="135" column="33" lean-forward="true" selection-start-line="135" selection-start-column="33" selection-end-line="135" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/classes/br/ufop/decom/gaid/focused_crawler/integration/FocusedCrawlerProcessTest.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1327,13 +648,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/util/Loader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="85" selection-start-line="85" selection-end-line="85" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerWorker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -1345,13 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/ContentExtractor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="41" column="31" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -1415,13 +722,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/queryExpansion.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/crawler/CrawlConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2985">
@@ -1433,17 +733,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/TermFrequency.java">
+    <entry file="file://$PROJECT_DIR$/pagSementes.collect">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="59" />
+        <state relative-caret-position="90">
+          <caret line="6" column="78" selection-start-line="6" selection-start-column="78" selection-end-line="6" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Texto/8.fcrawler">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/unit/LoaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/util/Loader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="66" column="23" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
+          <folding>
+            <element signature="e#4033#4034#0" expanded="true" />
+            <element signature="e#4070#4071#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/AssociationMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="348" lean-forward="true" selection-start-line="348" selection-end-line="348" />
+        <state relative-caret-position="600">
+          <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#matrixJaccard#0;class#AssociationMatrix#0" />
@@ -1458,24 +782,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pagSementes.collect">
+    <entry file="file://$PROJECT_DIR$/genre.expansion">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queryExpansion.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="78" selection-start-line="6" selection-start-column="78" selection-end-line="6" selection-end-column="78" />
+        <state relative-caret-position="60">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tika/tika-parsers/1.5/tika-parsers-1.5-sources.jar!/org/apache/tika/parser/pdf/PDFParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="240" column="20" selection-start-line="240" selection-start-column="4" selection-end-line="240" selection-end-column="20" />
+          <folding>
+            <element signature="e#3272#3273#0" expanded="true" />
+            <element signature="e#3310#3311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/pdfbox/pdfbox/1.8.4/pdfbox-1.8.4-sources.jar!/org/apache/pdfbox/util/PDFTextStripper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="245" column="23" selection-start-line="245" selection-start-column="18" selection-end-line="245" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/ContentExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1890#1891#0" expanded="true" />
+            <element signature="e#1951#1952#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content.expansion">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/QueryExpansion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        <state relative-caret-position="135">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/queryExpansion/TermFrequency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3203#3211#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1560">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="-608">
+          <caret line="125" column="38" selection-start-line="125" selection-start-column="38" selection-end-line="125" selection-end-column="38" />
         </state>
       </provider>
     </entry>

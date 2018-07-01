@@ -38,7 +38,7 @@ public class AssociationMatrix extends QueryExpansion {
     }
 
     @Override
-    public String[] getTerms(String[] urls, int maxTerms) {
+    public String[] getTerms(String[] urls) {
         return new String[0];
     }
 
