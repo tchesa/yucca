@@ -6,12 +6,9 @@
       <change beforePath="$PROJECT_DIR$/content.expansion" beforeDir="false" afterPath="$PROJECT_DIR$/content.expansion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genre.expansion" beforeDir="false" afterPath="$PROJECT_DIR$/genre.expansion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/processProperties/frontier/00000000.jdb" beforeDir="false" afterPath="$PROJECT_DIR$/processProperties/frontier/00000000.jdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/processProperties/frontier/je.info.0.lck" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/queryExpansion.properties" beforeDir="false" afterPath="$PROJECT_DIR$/queryExpansion.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/similarity.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/similarity.fcrawler" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/similarityObject.fcrawler" beforeDir="false" afterPath="$PROJECT_DIR$/similarityObject.fcrawler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,10 +20,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CrawlerController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CrawlerController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
+            <state relative-caret-position="285">
               <caret line="185" column="36" selection-start-line="185" selection-start-column="36" selection-end-line="185" selection-end-column="36" />
             </state>
           </provider>
@@ -37,11 +34,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="queryExpansion.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="queryExpansion.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/queryExpansion.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -170,9 +167,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="549" />
-    <option name="width" value="1920" />
-    <option name="height" value="531" />
+    <option name="y" value="23" />
+    <option name="width" value="960" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -182,6 +179,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -194,7 +192,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -392,7 +389,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="1057" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -415,12 +413,12 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32810867" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" x="0" y="0" width="430" height="857" id="Documentation" order="4" sideWeight="0.50155765" side_tool="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291536" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32810867" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -584,9 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1065">
           <caret line="89" column="20" selection-start-line="89" selection-start-column="20" selection-end-line="89" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -638,17 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#matrixJaccard#0;class#AssociationMatrix#0" />
-            <element signature="e#4417#4433#0" expanded="true" />
-            <element signature="method#get2termsWeightJaccard#0;class#AssociationMatrix#0" />
-            <element signature="method#matrixMenorDistancia#0;class#AssociationMatrix#0" />
-            <element signature="e#7228#7244#0" expanded="true" />
-            <element signature="method#get2termsWeightPositions#0;class#AssociationMatrix#0" />
-            <element signature="method#getTermPositionalPostings#0;class#AssociationMatrix#0" />
-            <element signature="class#TwoTermsWeight#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -677,11 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1890#1891#0" expanded="true" />
-            <element signature="e#1951#1952#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -689,9 +668,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="45" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -708,13 +684,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content.expansion">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="185" column="36" selection-start-line="185" selection-start-column="36" selection-end-line="185" selection-end-column="36" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/genre.collect">
       <provider selected="true" editor-type-id="text-editor">
@@ -745,8 +714,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/queryExpansion.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/ufop/decom/gaid/focused_crawler/crawler/CrawlerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="185" column="36" selection-start-line="185" selection-start-column="36" selection-end-line="185" selection-end-column="36" />
         </state>
       </provider>
     </entry>
